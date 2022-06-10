@@ -18,14 +18,13 @@ def log(f):
         return res
     return wrapper
 
-def parse_predictions(dataset, test, model_name, fold, result_dir):
-    predictions = pd.read_csv(f'{result_dir}/{dataset}/{model_name}_full_{fold}_predictions.csv', index_col=0)
+def parse_predictions(dataset, test, model_name, fold, result_dir, split):
+    predictions = pd.read_csv(f'{result_dir}/{dataset}/{model_name}_full_{split}_{fold}_predictions.csv', index_col=0)
     predictions['sentence_id'] = test['sentence_id'].drop_duplicates().values
-    predictions = predictions.melt(id_vars=['sentence_id'], 
-            var_name="word_id", 
-            value_name="labels_pred")
+    #predictions = predictions.melt(id_vars=['sentence_id'],  var_name="word_id", value_name="labels_pred")
     predictions['word_id'] = predictions['word_id'].astype(int)
     return predictions
+
 
 def word_id_gen(sentence_ids):
     current_val = None
@@ -39,31 +38,44 @@ def word_id_gen(sentence_ids):
         new_l.append(current_index)
     return new_l
 
-def parse_test_values(dataset, fold, fold_dir):
-    df = pd.read_csv(f'{fold_dir}/{dataset}/test_{fold}', index_col=0)
+@log
+def parse_test_values(dataset, fold, fold_dir,split):
+    df = pd.read_csv(f'{fold_dir}/{dataset}/{split}_{fold}', index_col=0)
     df['sentence_id'] = df['sentence_id'].astype(int)
     df['word_id'] = word_id_gen(df['sentence_id'].to_list())
     return df
 
-def get_merged(dataset, model_name, fold, result_dir, fold_dir):
-    test = parse_test_values(dataset, fold,fold_dir)
-    predictions = parse_predictions(dataset, test, model_name, fold, result_dir)
-    merged = predictions.merge(test, on=['word_id','sentence_id'], how='inner')
-    return merged.dropna(), test, predictions
+
+def sentence_id_gen(df, start_id):
+    sentence_id=start_id
+    for index, row in df.iterrows():
+        df.loc[index, 'sentence_id']=sentence_id
+        if row['words']=='.':
+            sentence_id+=1
+    return df
+
+
+def parse_predictions(dataset, model_name, fold, result_dir, split, test):
+    predictions = pd.read_csv(f'{result_dir}/{dataset}/{model_name}_full_{split}_{fold}_predictions.csv', index_col=0)
+    predictions=sentence_id_gen(predictions, test['sentence_id'].values[0])
+    predictions['word_id'] = word_id_gen(predictions['sentence_id'].astype(int).to_list())
+    return predictions
 
 @log
-def get_merged_all(datasets, model_names, folds, result_dir, fold_dir):
-    frames = []
+def get_merged_all(datasets, model_names, folds, result_dir, fold_dir, split):
+    
+    merged_all=pd.DataFrame()
     for dataset in datasets:
         for fold in folds:
+            test=parse_test_values(dataset, fold, fold_dir,split)
             for model_name in model_names:
-                merged_df, _, _ = get_merged(dataset, model_name, fold, result_dir,fold_dir)
-                merged_df['fold'] = fold
-                merged_df['model_name'] = model_name
-                merged_df['dataset']=dataset
-                frames.append(merged_df)
-    df = pd.concat(frames)
-    return df
+                predictions=parse_predictions(dataset, model_name, fold, result_dir, split, test)
+                merged = predictions.merge(test, on=['word_id','sentence_id', 'words'], how='inner')
+                merged['fold']=fold
+                merged['model_name']=model_name
+                merged['dataset']=dataset
+                merged_all=merged_all.append(merged)
+    return merged_all
 
 
 
