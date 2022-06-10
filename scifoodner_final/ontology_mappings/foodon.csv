@@ -1,0 +1,1070 @@
+ID|Food Concept|URLs
+B000000|WORCESTERSHIRE SAUCE|http://purl.obolibrary.org/obo/FOODON_03305003;http://purl.obolibrary.org/obo/FOODON_03311146
+B000001|CREAM CHEESE|http://purl.obolibrary.org/obo/FOODON_03301889
+B000002|MIXTURE|http://purl.obolibrary.org/obo/CHEBI_60004
+B000003|WALNUTS|http://purl.obolibrary.org/obo/NCBITaxon_16718
+B000004|ONION|http://purl.obolibrary.org/obo/FOODON_03316347;http://purl.obolibrary.org/obo/NCBITaxon_4679
+B000005|FIRM|http://purl.obolibrary.org/obo/PATO_0002450
+B000006|MOZZARELLA CHEESE|http://purl.obolibrary.org/obo/FOODON_03303578
+B000007|MAYONNAISE|http://purl.obolibrary.org/obo/FOODON_03301440
+B000008|ARTICHOKE|http://purl.obolibrary.org/obo/NCBITaxon_59895
+B000009|TORTILLA|http://purl.obolibrary.org/obo/FOODON_03307668
+B000010|PROVOLONE CHEESE|http://purl.obolibrary.org/obo/FOODON_03302916
+B000011|GARLIC|http://purl.obolibrary.org/obo/NCBITaxon_4682
+B000012|WATER|http://purl.obolibrary.org/obo/ENVO_00002006
+B000013|LAYER|http://purl.obolibrary.org/obo/ENVO_01000281
+B000014|OIL|http://purl.obolibrary.org/obo/FOODON_03310387
+B000015|LEMON JUICE|http://purl.obolibrary.org/obo/FOODON_03301441;http://purl.obolibrary.org/obo/FOODON_03305428
+B000016|OLIVE OIL|http://purl.obolibrary.org/obo/FOODON_03310387;http://purl.obolibrary.org/obo/FOODON_03301826
+B000017|GARBANZO|http://purl.obolibrary.org/obo/NCBITaxon_3827
+B000018|PROCESS|http://purl.obolibrary.org/obo/BFO_0000015
+B000019|HONEY|http://purl.obolibrary.org/obo/UBERON_0036016
+B000020|SALT|http://purl.obolibrary.org/obo/CHEBI_24866
+B000021|FOOD|http://purl.obolibrary.org/obo/CHEBI_33290
+B000022|VEGETABLE OIL|http://purl.obolibrary.org/obo/FOODON_03305263;http://purl.obolibrary.org/obo/FOODON_03310387
+B000023|CHICKEN|http://purl.obolibrary.org/obo/FOODON_03411457;http://purl.obolibrary.org/obo/NCBITaxon_9031
+B000024|COOKIE|http://purl.obolibrary.org/obo/FOODON_03301585
+B000025|SAUCE|http://purl.obolibrary.org/obo/FOODON_03311146
+B000026|CORN|http://purl.obolibrary.org/obo/NCBITaxon_381124
+B000027|SALAD DRESSING|http://purl.obolibrary.org/obo/FOODON_03303223;http://purl.obolibrary.org/obo/FOODON_00001290;http://purl.obolibrary.org/obo/FOODON_03316042;http://purl.obolibrary.org/obo/FOODON_03315498
+B000028|CHEDDAR CHEESE|http://purl.obolibrary.org/obo/FOODON_03302458
+B000029|PLASTIC|http://purl.obolibrary.org/obo/FOODON_03500036
+B000030|MILK|http://purl.obolibrary.org/obo/UBERON_0001913
+B000031|RICE|http://purl.obolibrary.org/obo/NCBITaxon_4530
+B000032|LEAF|http://purl.obolibrary.org/obo/PO_0025034
+B000033|BROWN SUGAR|http://purl.obolibrary.org/obo/FOODON_03420108;http://purl.obolibrary.org/obo/FOODON_03302833;http://purl.obolibrary.org/obo/FOODON_03420156
+B000034|BEET JUICE|http://purl.obolibrary.org/obo/FOODON_03302034;http://purl.obolibrary.org/obo/NCBITaxon_161934
+B000035|CINNAMON|http://purl.obolibrary.org/obo/NCBITaxon_128608;http://purl.obolibrary.org/obo/FOODON_03301175
+B000036|VINEGAR|http://purl.obolibrary.org/obo/FOODON_03301705
+B000037|LIQUID|http://purl.obolibrary.org/obo/FOODON_03412974
+B000038|SIZE|http://purl.obolibrary.org/obo/PATO_0000117
+B000039|HARD|http://purl.obolibrary.org/obo/PATO_0000386
+B000040|VANILLA EXTRACT|http://purl.obolibrary.org/obo/FOODON_03316764;http://purl.obolibrary.org/obo/NCBITaxon_51238
+B000041|WHITE SUGAR|http://purl.obolibrary.org/obo/FOODON_03420108;http://purl.obolibrary.org/obo/FOODON_03420157
+B000042|VANILLA|http://purl.obolibrary.org/obo/FOODON_03411355;http://purl.obolibrary.org/obo/NCBITaxon_51238
+B000043|ALMOND|http://purl.obolibrary.org/obo/NCBITaxon_3755
+B000044|LIME JUICE|http://purl.obolibrary.org/obo/FOODON_03305086;http://purl.obolibrary.org/obo/FOODON_03306160
+B000045|ORANGE|http://purl.obolibrary.org/obo/FOODON_03309832
+B000046|SOY SAUCE|http://purl.obolibrary.org/obo/FOODON_03311146;http://purl.obolibrary.org/obo/FOODON_03301115
+B000047|CARROTS|http://purl.obolibrary.org/obo/NCBITaxon_4039
+B000048|BATTER|http://purl.obolibrary.org/obo/FOODON_03301304
+B000049|FLOUR|http://purl.obolibrary.org/obo/FOODON_03301116
+B000050|GARLIC SALT|http://purl.obolibrary.org/obo/NCBITaxon_4682;http://purl.obolibrary.org/obo/FOODON_03307739;http://purl.obolibrary.org/obo/CHEBI_24866
+B000051|SAUERKRAUT|http://purl.obolibrary.org/obo/FOODON_03301397
+B000052|SOFT|http://purl.obolibrary.org/obo/PATO_0000387
+B000053|GARLIC POWDER|http://purl.obolibrary.org/obo/FOODON_03301844;http://purl.obolibrary.org/obo/NCBITaxon_4682
+B000054|SOUR CREAM|http://purl.obolibrary.org/obo/FOODON_03302515
+B000055|BUTTER|http://purl.obolibrary.org/obo/FOODON_03310351
+B000056|SEAL|http://purl.obolibrary.org/obo/NCBITaxon_9709
+B000057|PIZZA SAUCE|http://purl.obolibrary.org/obo/FOODON_03306786;http://purl.obolibrary.org/obo/FOODON_03311146
+B000058|PEPPERONI|http://purl.obolibrary.org/obo/FOODON_03311003
+B000059|PEPPERS|http://purl.obolibrary.org/obo/NCBITaxon_4071
+B000060|BANANA|http://purl.obolibrary.org/obo/NCBITaxon_89151;http://purl.obolibrary.org/obo/NCBITaxon_4641
+B000061|DRESSING|http://purl.obolibrary.org/obo/FOODON_03315498
+B000062|JAR|http://purl.obolibrary.org/obo/FOODON_03490215
+B000063|MEATBALL|http://purl.obolibrary.org/obo/FOODON_03317284
+B000064|BOILING|http://purl.obolibrary.org/obo/FOODON_03450014
+B000065|SALTED|http://purl.obolibrary.org/obo/FOODON_03460173
+B000066|SPRAY|http://purl.obolibrary.org/obo/FOODON_03430168
+B000067|PASTA|http://purl.obolibrary.org/obo/FOODON_03306347
+B000068|NUTMEG|http://purl.obolibrary.org/obo/FOODON_03316426;http://purl.obolibrary.org/obo/NCBITaxon_51089
+B000069|SUGAR|http://purl.obolibrary.org/obo/FOODON_03420108
+B000070|SYRUP|http://purl.obolibrary.org/obo/FOODON_03303225;http://purl.obolibrary.org/obo/FOODON_03430167
+B000071|BLUE CHEESE DRESSING|http://purl.obolibrary.org/obo/FOODON_03303510;http://purl.obolibrary.org/obo/FOODON_03315498;http://purl.obolibrary.org/obo/FOODON_00001065
+B000072|BLUE CHEESE|http://purl.obolibrary.org/obo/FOODON_03301128;http://purl.obolibrary.org/obo/FOODON_00001065
+B000073|MARGARINE|http://purl.obolibrary.org/obo/FOODON_03301672
+B000074|GINGER|http://purl.obolibrary.org/obo/NCBITaxon_94328
+B000075|CRAB|http://purl.obolibrary.org/obo/FOODON_03411335
+B000076|SEAWEED|http://purl.obolibrary.org/obo/FOODON_03412266
+B000077|ITALIAN DRESSING|http://purl.obolibrary.org/obo/ancestro_0307;http://purl.obolibrary.org/obo/FOODON_03315498;http://purl.obolibrary.org/obo/FOODON_03303447
+B000078|ITALIAN|http://purl.obolibrary.org/obo/ancestro_0307;http://purl.obolibrary.org/obo/hancestro_0307
+B000079|HORSERADISH|http://purl.obolibrary.org/obo/FOODON_03316284
+B000080|SHRIMP|http://purl.obolibrary.org/obo/FOODON_03411237
+B000081|PEAS|http://purl.obolibrary.org/obo/NCBITaxon_3888
+B000082|GLASS|http://purl.obolibrary.org/obo/FOODON_03500040
+B000083|AVOCADO|http://purl.obolibrary.org/obo/NCBITaxon_3435;http://purl.obolibrary.org/obo/FOODON_03305236
+B000084|SALSA|http://purl.obolibrary.org/obo/FOODON_03310086
+B000085|CHILI POWDER|http://purl.obolibrary.org/obo/FOODON_03302030
+B000086|TACO SAUCE|http://purl.obolibrary.org/obo/FOODON_03311146;http://purl.obolibrary.org/obo/FOODON_03302032
+B000087|MUSHROOM|http://purl.obolibrary.org/obo/FOODON_00001287
+B000088|GOAT|http://purl.obolibrary.org/obo/FOODON_03411328;http://purl.obolibrary.org/obo/NCBITaxon_9925
+B000089|ONION POWDER|http://purl.obolibrary.org/obo/FOODON_03316347;http://purl.obolibrary.org/obo/FOODON_03301845
+B000090|SPINACH|http://purl.obolibrary.org/obo/NCBITaxon_3562
+B000091|TURKEY|http://purl.obolibrary.org/obo/GAZ_00000558;http://purl.obolibrary.org/obo/NCBITaxon_9103
+B000092|EVAPORATED MILK|http://purl.obolibrary.org/obo/FOODON_03301505;http://purl.obolibrary.org/obo/UBERON_0001913
+B000093|BAKING POWDER|http://purl.obolibrary.org/obo/FOODON_03301940
+B000094|PICKLING SPICE|http://purl.obolibrary.org/obo/FOODON_03303380;http://purl.obolibrary.org/obo/FOODON_03304737
+B000095|BRINE|http://purl.obolibrary.org/obo/FOODON_03302715
+B000096|TEMPERATURE|http://purl.obolibrary.org/obo/PATO_0000146
+B000097|FISH SAUCE|http://purl.obolibrary.org/obo/FOODON_03317197;http://purl.obolibrary.org/obo/FOODON_03311146;http://purl.obolibrary.org/obo/FOODON_03411222
+B000098|VERMICELLI|http://purl.obolibrary.org/obo/FOODON_03303926
+B000099|SPRING|http://purl.obolibrary.org/obo/ENVO_00000027
+B000100|BASIL|http://purl.obolibrary.org/obo/NCBITaxon_39350
+B000101|FISH|http://purl.obolibrary.org/obo/NCBITaxon_7898;http://purl.obolibrary.org/obo/NCBITaxon_7777;http://purl.obolibrary.org/obo/FOODON_03411222
+B000102|THAI|http://purl.obolibrary.org/obo/hancestro_0500;http://purl.obolibrary.org/obo/ancestro_0500
+B000103|PAPRIKA|http://purl.obolibrary.org/obo/FOODON_03301105
+B000104|CAYENNE PEPPER|http://purl.obolibrary.org/obo/FOODON_03315872
+B000105|GRATED CHEESE|http://purl.obolibrary.org/obo/FOODON_03302803
+B000106|POTATOES|http://purl.obolibrary.org/obo/NCBITaxon_4113
+B000107|CHORIZO|http://purl.obolibrary.org/obo/FOODON_03316070
+B000108|POTATO|http://purl.obolibrary.org/obo/NCBITaxon_4113
+B000109|THYME|http://purl.obolibrary.org/obo/NCBITaxon_49992
+B000110|CORN SYRUP|http://purl.obolibrary.org/obo/FOODON_03303225;http://purl.obolibrary.org/obo/FOODON_03301061;http://purl.obolibrary.org/obo/NCBITaxon_381124
+B000111|LIME|http://purl.obolibrary.org/obo/FOODON_03305086
+B000112|LEBANESE|http://purl.obolibrary.org/obo/ancestro_0443;http://purl.obolibrary.org/obo/hancestro_0443
+B000113|FETA CHEESE|http://purl.obolibrary.org/obo/FOODON_03307280
+B000114|VERMOUTH|http://purl.obolibrary.org/obo/FOODON_03307808
+B000115|GELATIN|http://purl.obolibrary.org/obo/FOODON_03315647;http://purl.obolibrary.org/obo/CHEBI_5291
+B000116|SHERRY|http://purl.obolibrary.org/obo/FOODON_03310760
+B000117|PEANUT BUTTER|http://purl.obolibrary.org/obo/FOODON_03306867;http://purl.obolibrary.org/obo/FOODON_03310351;http://purl.obolibrary.org/obo/NCBITaxon_3818
+B000118|RICE CEREAL|http://purl.obolibrary.org/obo/NCBITaxon_4530;http://purl.obolibrary.org/obo/FOODON_03310609
+B000119|CHOCOLATE|http://purl.obolibrary.org/obo/FOODON_03307240
+B000120|FLAX|http://purl.obolibrary.org/obo/NCBITaxon_4006
+B000121|SEED|http://purl.obolibrary.org/obo/PO_0009010
+B000122|MUSTARD POWDER|http://purl.obolibrary.org/obo/FOODON_03306359
+B000123|CHEESE SPREAD|http://purl.obolibrary.org/obo/FOODON_03302019
+B000124|PULSE|http://purl.obolibrary.org/obo/FOODON_00001168
+B000125|BEER|http://purl.obolibrary.org/obo/FOODON_03301619
+B000126|CHILE|http://purl.obolibrary.org/obo/GAZ_00002825
+B000127|SLICED|http://purl.obolibrary.org/obo/FOODON_03430137
+B000128|FRENCH|http://purl.obolibrary.org/obo/ancestro_0363;http://purl.obolibrary.org/obo/hancestro_0363
+B000129|DIAMETER|http://purl.obolibrary.org/obo/PATO_0001334
+B000130|CHILI PEPPER|http://purl.obolibrary.org/obo/FOODON_03315873
+B000131|VEGETABLE SOUP MIX|http://purl.obolibrary.org/obo/FOODON_03309460;http://purl.obolibrary.org/obo/FOODON_03304911;http://purl.obolibrary.org/obo/FOODON_03315571
+B000132|CHEESE DIP|http://purl.obolibrary.org/obo/FOODON_03302985
+B000133|MAPLE SYRUP|http://purl.obolibrary.org/obo/FOODON_03303225;http://purl.obolibrary.org/obo/FOODON_03301848
+B000134|APPLESAUCE|http://purl.obolibrary.org/obo/FOODON_03301126
+B000135|CANOLA OIL|http://purl.obolibrary.org/obo/FOODON_03310387;http://purl.obolibrary.org/obo/FOODON_03302578
+B000136|PLASTIC CONTAINER|http://purl.obolibrary.org/obo/FOODON_03500036;http://purl.obolibrary.org/obo/FOODON_03490172
+B000137|TOP SHELL|http://purl.obolibrary.org/obo/FOODON_03412321
+B000138|OYSTERS|http://purl.obolibrary.org/obo/NCBITaxon_6563
+B000139|LIQUEUR|http://purl.obolibrary.org/obo/FOODON_03301008
+B000140|WHIPPED TOPPING|http://purl.obolibrary.org/obo/FOODON_03302772
+B000141|TOMATO PASTE|http://purl.obolibrary.org/obo/NCBITaxon_4081;http://purl.obolibrary.org/obo/FOODON_03301455
+B000142|CELERY|http://purl.obolibrary.org/obo/NCBITaxon_117781
+B000143|TUNA|http://purl.obolibrary.org/obo/FOODON_03411269
+B000144|CELERY SALT|http://purl.obolibrary.org/obo/FOODON_03304738;http://purl.obolibrary.org/obo/NCBITaxon_117781;http://purl.obolibrary.org/obo/CHEBI_24866
+B000145|ONION SALT|http://purl.obolibrary.org/obo/FOODON_03316347;http://purl.obolibrary.org/obo/CHEBI_24866;http://purl.obolibrary.org/obo/FOODON_03304740
+B000146|ITALIAN SAUSAGE|http://purl.obolibrary.org/obo/ancestro_0307;http://purl.obolibrary.org/obo/FOODON_03317294
+B000147|BAKING MIX|http://purl.obolibrary.org/obo/FOODON_03311630
+B000148|CHERRY|http://purl.obolibrary.org/obo/FOODON_03301240
+B000149|SEASONINGS|http://purl.obolibrary.org/obo/FOODON_03301189
+B000150|PECAN|http://purl.obolibrary.org/obo/FOODON_03304764;http://purl.obolibrary.org/obo/NCBITaxon_32201
+B000151|WHISKEY|http://purl.obolibrary.org/obo/FOODON_03302775
+B000152|WAX|http://purl.obolibrary.org/obo/FOODON_03500015
+B000153|REFRIED BEANS|http://purl.obolibrary.org/obo/FOODON_03304010
+B000154|SEASONING MIX|http://purl.obolibrary.org/obo/FOODON_03302060
+B000155|TOMATO|http://purl.obolibrary.org/obo/NCBITaxon_4081
+B000156|SWISS CHEESE|http://purl.obolibrary.org/obo/FOODON_03303659;http://purl.obolibrary.org/obo/ancestro_0394
+B000157|SWISS|http://purl.obolibrary.org/obo/hancestro_0394;http://purl.obolibrary.org/obo/ancestro_0394
+B000158|COCKTAIL SAUCE|http://purl.obolibrary.org/obo/FOODON_03311146;http://purl.obolibrary.org/obo/FOODON_03307333
+B000159|SWEET POTATO|http://purl.obolibrary.org/obo/NCBITaxon_4120;http://purl.obolibrary.org/obo/NCBITaxon_4113
+B000160|TOMATO SAUCE|http://purl.obolibrary.org/obo/FOODON_03301217;http://purl.obolibrary.org/obo/FOODON_03311146;http://purl.obolibrary.org/obo/NCBITaxon_4081
+B000161|BAGEL|http://purl.obolibrary.org/obo/FOODON_03309554
+B000162|TOAST|http://purl.obolibrary.org/obo/FOODON_03306255
+B000163|ALUMINUM|http://purl.obolibrary.org/obo/FOODON_03500042
+B000164|SEASONING SALT|http://purl.obolibrary.org/obo/FOODON_03306222;http://purl.obolibrary.org/obo/CHEBI_24866
+B000165|SALAD|http://purl.obolibrary.org/obo/FOODON_03316042
+B000166|MANGO|http://purl.obolibrary.org/obo/NCBITaxon_29780
+B000167|WINE VINEGAR|http://purl.obolibrary.org/obo/FOODON_03301228;http://purl.obolibrary.org/obo/FOODON_03301705
+B000168|WHITE WINE|http://purl.obolibrary.org/obo/FOODON_03310273
+B000169|ICE|http://purl.obolibrary.org/obo/ENVO_01001125;http://purl.obolibrary.org/obo/FOODON_03301926
+B000170|MOLASSES|http://purl.obolibrary.org/obo/CHEBI_83163
+B000171|JACK|http://purl.obolibrary.org/obo/FOODON_03411044
+B000172|SAUSAGE MEAT|http://purl.obolibrary.org/obo/FOODON_03317646
+B000173|PASTRY|http://purl.obolibrary.org/obo/FOODON_03315272
+B000174|BRIE CHEESE|http://purl.obolibrary.org/obo/FOODON_03303508
+B000175|OYSTER|http://purl.obolibrary.org/obo/FOODON_03411224
+B000176|CURRY POWDER|http://purl.obolibrary.org/obo/FOODON_03306648;http://purl.obolibrary.org/obo/FOODON_03301842
+B000177|PICKLE RELISH|http://purl.obolibrary.org/obo/FOODON_03310480;http://purl.obolibrary.org/obo/FOODON_03304648
+B000178|CHILI SAUCE|http://purl.obolibrary.org/obo/FOODON_03311146;http://purl.obolibrary.org/obo/FOODON_03304583
+B000179|COTTAGE CHEESE|http://purl.obolibrary.org/obo/FOODON_03301605
+B000180|CURD|http://purl.obolibrary.org/obo/FOODON_03420245
+B000181|FRESH WATER|http://purl.obolibrary.org/obo/ENVO_00002006;http://purl.obolibrary.org/obo/ENVO_00002011
+B000182|MONOSODIUM GLUTAMATE|http://purl.obolibrary.org/obo/CHEBI_64220
+B000183|GARLIC IN OIL|http://purl.obolibrary.org/obo/FOODON_03310387;http://purl.obolibrary.org/obo/NCBITaxon_4682;http://purl.obolibrary.org/obo/FOODON_03311708
+B000184|HALF AND HALF|http://purl.obolibrary.org/obo/FOODON_03301794
+B000185|PEANUT OIL|http://purl.obolibrary.org/obo/FOODON_03309857;http://purl.obolibrary.org/obo/FOODON_03310387;http://purl.obolibrary.org/obo/NCBITaxon_3818
+B000186|TENDERLOIN|http://purl.obolibrary.org/obo/FOODON_03530217
+B000187|COLBY CHEESE|http://purl.obolibrary.org/obo/FOODON_03303856
+B000188|THICKNESS|http://purl.obolibrary.org/obo/PATO_0000915
+B000189|QUINOA|http://purl.obolibrary.org/obo/NCBITaxon_63459
+B000190|OATS|http://purl.obolibrary.org/obo/NCBITaxon_4498;http://purl.obolibrary.org/obo/FOODON_03315188
+B000191|RUSSIAN|http://purl.obolibrary.org/obo/ancestro_0386;http://purl.obolibrary.org/obo/hancestro_0386
+B000192|COCONUT MILK|http://purl.obolibrary.org/obo/FOODON_03303084;http://purl.obolibrary.org/obo/UBERON_0001913
+B000193|PINEAPPLE|http://purl.obolibrary.org/obo/NCBITaxon_4615
+B000194|SEA|http://purl.obolibrary.org/obo/ENVO_00000016
+B000195|SOUP MIX|http://purl.obolibrary.org/obo/FOODON_03315571
+B000196|HABANERO|http://purl.obolibrary.org/obo/NCBITaxon_80379
+B000197|BUFFALO|http://purl.obolibrary.org/obo/FOODON_03411476
+B000198|VEGETABLE STOCK|http://purl.obolibrary.org/obo/FOODON_03315835
+B000199|RED WINE|http://purl.obolibrary.org/obo/FOODON_03310272
+B000200|BROTH|http://purl.obolibrary.org/obo/FOODON_03309462
+B000201|OREGANO|http://purl.obolibrary.org/obo/NCBITaxon_39352
+B000202|BOUILLON|http://purl.obolibrary.org/obo/FOODON_03301468
+B000203|PANCAKE MIX|http://purl.obolibrary.org/obo/FOODON_03315166;http://purl.obolibrary.org/obo/FOODON_03315258
+B000204|ONION SOUP MIX|http://purl.obolibrary.org/obo/FOODON_03304821;http://purl.obolibrary.org/obo/FOODON_03309457;http://purl.obolibrary.org/obo/FOODON_03315571
+B000205|CHUCK|http://purl.obolibrary.org/obo/FOODON_03530021
+B000206|ONION SOUP|http://purl.obolibrary.org/obo/FOODON_03316347;http://purl.obolibrary.org/obo/FOODON_03304821
+B000207|PAPAYA|http://purl.obolibrary.org/obo/NCBITaxon_3649
+B000208|BARBEQUE SAUCE|http://purl.obolibrary.org/obo/FOODON_03302062;http://purl.obolibrary.org/obo/FOODON_03311146
+B000209|CURRY PASTE|http://purl.obolibrary.org/obo/FOODON_03306648;http://purl.obolibrary.org/obo/FOODON_03302920
+B000210|LEMON|http://purl.obolibrary.org/obo/FOODON_03301441
+B000211|OIL GRILL|http://purl.obolibrary.org/obo/FOODON_03310387;http://purl.obolibrary.org/obo/FOODON_03315524
+B000212|TAIL|http://purl.obolibrary.org/obo/FOODON_03530155
+B000213|SPAGHETTI SAUCE|http://purl.obolibrary.org/obo/FOODON_03303886;http://purl.obolibrary.org/obo/FOODON_03311146
+B000214|GRAPE JELLY|http://purl.obolibrary.org/obo/FOODON_03305954
+B000215|CORIANDER|http://purl.obolibrary.org/obo/FOODON_03310370
+B000216|PANCAKE|http://purl.obolibrary.org/obo/FOODON_03315258
+B000217|CHICKEN BROTH|http://purl.obolibrary.org/obo/FOODON_03303004;http://purl.obolibrary.org/obo/FOODON_03411457;http://purl.obolibrary.org/obo/FOODON_03309462
+B000218|MEXICAN|http://purl.obolibrary.org/obo/hancestro_0415;http://purl.obolibrary.org/obo/ancestro_0415
+B000219|LEMON PEEL|http://purl.obolibrary.org/obo/FOODON_03306143;http://purl.obolibrary.org/obo/FOODON_03301441
+B000220|WHEAT GERM|http://purl.obolibrary.org/obo/FOODON_03315184;http://purl.obolibrary.org/obo/FOODON_03301595;http://purl.obolibrary.org/obo/NCBITaxon_4565
+B000221|WHEAT|http://purl.obolibrary.org/obo/FOODON_03315184;http://purl.obolibrary.org/obo/NCBITaxon_4565
+B000222|FAT OR OIL|http://purl.obolibrary.org/obo/FOODON_03310387;http://purl.obolibrary.org/obo/FOODON_03420190
+B000223|QUICHE|http://purl.obolibrary.org/obo/FOODON_03307177
+B000224|FLAVORING EXTRACT|http://purl.obolibrary.org/obo/FOODON_03306145
+B000225|YEAST|http://purl.obolibrary.org/obo/FOODON_03315025;http://purl.obolibrary.org/obo/FOODON_03411345
+B000226|ORDER|http://purl.obolibrary.org/obo/NCBITaxon_order
+B000227|FRUIT|http://purl.obolibrary.org/obo/PO_0009001
+B000228|FLEXIBLE|http://purl.obolibrary.org/obo/PATO_0001544
+B000229|APPLE|http://purl.obolibrary.org/obo/FOODON_03301710;http://purl.obolibrary.org/obo/NCBITaxon_3750
+B000230|ROOT|http://purl.obolibrary.org/obo/FOODON_03420306
+B000231|HOLLANDAISE SAUCE|http://purl.obolibrary.org/obo/FOODON_03301182;http://purl.obolibrary.org/obo/FOODON_03311146
+B000232|ASIAGO CHEESE|http://purl.obolibrary.org/obo/FOODON_03301736
+B000233|CROISSANT|http://purl.obolibrary.org/obo/FOODON_03309852
+B000234|CANADIAN|http://purl.obolibrary.org/obo/ancestro_0354;http://purl.obolibrary.org/obo/hancestro_0354
+B000235|PUDDING|http://purl.obolibrary.org/obo/FOODON_03301660
+B000236|AMISH|http://purl.obolibrary.org/obo/ancestro_0316;http://purl.obolibrary.org/obo/hancestro_0316
+B000237|WHOLE WHEAT FLOUR|http://purl.obolibrary.org/obo/FOODON_03315184;http://purl.obolibrary.org/obo/FOODON_03302340;http://purl.obolibrary.org/obo/FOODON_03301116;http://purl.obolibrary.org/obo/NCBITaxon_4565
+B000238|WAFFLE|http://purl.obolibrary.org/obo/FOODON_03315259
+B000239|CREAM OF CHICKEN SOUP|http://purl.obolibrary.org/obo/FOODON_03306286;http://purl.obolibrary.org/obo/FOODON_03305127
+B000240|CHICKEN SOUP|http://purl.obolibrary.org/obo/FOODON_03306286;http://purl.obolibrary.org/obo/FOODON_03411457
+B000241|METAL|http://purl.obolibrary.org/obo/FOODON_03500041
+B000242|GHEE|http://purl.obolibrary.org/obo/FOODON_03310185
+B000243|WHEAT BRAN|http://purl.obolibrary.org/obo/FOODON_03315184;http://purl.obolibrary.org/obo/NCBITaxon_4565;http://purl.obolibrary.org/obo/FOODON_03304608
+B000244|APPLE PIE|http://purl.obolibrary.org/obo/FOODON_03301710;http://purl.obolibrary.org/obo/FOODON_00002475
+B000245|SPICE|http://purl.obolibrary.org/obo/FOODON_03303380
+B000246|BURRITO|http://purl.obolibrary.org/obo/FOODON_00002510
+B000247|EGG YOLK|http://purl.obolibrary.org/obo/UBERON_0007378
+B000248|CHEESE SAUCE|http://purl.obolibrary.org/obo/FOODON_03311146;http://purl.obolibrary.org/obo/FOODON_03304042
+B000249|MALT|http://purl.obolibrary.org/obo/FOODON_03306040
+B000250|CHEESE SUBSTITUTE|http://purl.obolibrary.org/obo/FOODON_03303869
+B000251|CONFECTIONER'S SUGAR|http://purl.obolibrary.org/obo/FOODON_03304315;http://purl.obolibrary.org/obo/FOODON_03420108
+B000252|FRENCH TOAST|http://purl.obolibrary.org/obo/ancestro_0363;http://purl.obolibrary.org/obo/FOODON_03302695;http://purl.obolibrary.org/obo/FOODON_03306255
+B000253|RICOTTA CHEESE|http://purl.obolibrary.org/obo/FOODON_03302908
+B000254|SANDWICH|http://purl.obolibrary.org/obo/FOODON_03301906
+B000255|STRAWBERRY|http://purl.obolibrary.org/obo/NCBITaxon_3747
+B000256|SCRAMBLED EGG|http://purl.obolibrary.org/obo/FOODON_03304791
+B000257|SEMOLINA|http://purl.obolibrary.org/obo/FOODON_03303411
+B000258|PORRIDGE|http://purl.obolibrary.org/obo/FOODON_03311555
+B000259|STREAM|http://purl.obolibrary.org/obo/ENVO_00000023
+B000260|ALMOND BUTTER|http://purl.obolibrary.org/obo/FOODON_03310875;http://purl.obolibrary.org/obo/FOODON_03310351;http://purl.obolibrary.org/obo/NCBITaxon_3755
+B000261|WALNUT|http://purl.obolibrary.org/obo/FOODON_03316466
+B000262|FINISH|http://purl.obolibrary.org/obo/ancestro_0321;http://purl.obolibrary.org/obo/hancestro_0321
+B000263|GLUTEN|http://purl.obolibrary.org/obo/FOODON_03420177;http://purl.obolibrary.org/obo/FOODON_03301888
+B000264|FROZEN|http://purl.obolibrary.org/obo/PATO_0001985
+B000265|CREAM OF MUSHROOM SOUP|http://purl.obolibrary.org/obo/FOODON_00001287;http://purl.obolibrary.org/obo/FOODON_03305128
+B000266|COD|http://purl.obolibrary.org/obo/FOODON_03411423
+B000267|FISH FLAKES|http://purl.obolibrary.org/obo/FOODON_03411222;http://purl.obolibrary.org/obo/FOODON_03308602
+B000268|ORANGE PEEL|http://purl.obolibrary.org/obo/FOODON_03309832;http://purl.obolibrary.org/obo/FOODON_03303116
+B000269|MILLET|http://purl.obolibrary.org/obo/FOODON_03309702
+B000270|PUDDING MIX|http://purl.obolibrary.org/obo/FOODON_03301660;http://purl.obolibrary.org/obo/FOODON_03310796
+B000271|TUBE|http://purl.obolibrary.org/obo/FOODON_03490200
+B000272|SPELT|http://purl.obolibrary.org/obo/NCBITaxon_58933
+B000273|TIN|http://purl.obolibrary.org/obo/FOODON_03500043
+B000274|FINELY GROUND|http://purl.obolibrary.org/obo/FOODON_03430106
+B000275|TAPIOCA FLOUR|http://purl.obolibrary.org/obo/FOODON_03310681;http://purl.obolibrary.org/obo/FOODON_03307663;http://purl.obolibrary.org/obo/FOODON_03301116
+B000276|ALOE VERA|http://purl.obolibrary.org/obo/NCBITaxon_34199;http://purl.obolibrary.org/obo/NCBITaxon_25641
+B000277|PEACH|http://purl.obolibrary.org/obo/NCBITaxon_3760;http://purl.obolibrary.org/obo/FOODON_03315502;http://purl.obolibrary.org/obo/FOODON_03301719
+B000278|GRAPEFRUIT JUICE|http://purl.obolibrary.org/obo/FOODON_03306174;http://purl.obolibrary.org/obo/NCBITaxon_37656
+B000279|GRAPEFRUIT|http://purl.obolibrary.org/obo/FOODON_03301702;http://purl.obolibrary.org/obo/NCBITaxon_37656
+B000280|COCOA|http://purl.obolibrary.org/obo/FOODON_03301072
+B000281|STRAW|http://purl.obolibrary.org/obo/FOODON_03309894
+B000282|DUST|http://purl.obolibrary.org/obo/ENVO_00002008
+B000283|WHITE CHOCOLATE|http://purl.obolibrary.org/obo/FOODON_03307240;http://purl.obolibrary.org/obo/FOODON_03301329
+B000284|CHOCOLATE SYRUP|http://purl.obolibrary.org/obo/FOODON_03301317;http://purl.obolibrary.org/obo/FOODON_03307240;http://purl.obolibrary.org/obo/FOODON_03303225
+B000285|COFFEE CREAMER|http://purl.obolibrary.org/obo/FOODON_03305264
+B000286|FLAXSEED MEAL|http://purl.obolibrary.org/obo/FOODON_03306424
+B000287|GLAZE|http://purl.obolibrary.org/obo/FOODON_03315146
+B000288|GOUDA CHEESE|http://purl.obolibrary.org/obo/FOODON_03303514
+B000289|KEFIR|http://purl.obolibrary.org/obo/FOODON_03310290
+B000290|POTATO FLOUR|http://purl.obolibrary.org/obo/FOODON_03302378;http://purl.obolibrary.org/obo/FOODON_03301116;http://purl.obolibrary.org/obo/NCBITaxon_4113
+B000291|XANTHAN GUM|http://purl.obolibrary.org/obo/FOODON_03413321
+B000292|STARCH|http://purl.obolibrary.org/obo/FOODON_03301000
+B000293|ORANGE JUICE CONCENTRATE|http://purl.obolibrary.org/obo/FOODON_03309832;http://purl.obolibrary.org/obo/FOODON_03311343
+B000294|PINEAPPLE JUICE|http://purl.obolibrary.org/obo/FOODON_03301276;http://purl.obolibrary.org/obo/NCBITaxon_4615;http://purl.obolibrary.org/obo/FOODON_00002120
+B000295|APRICOT|http://purl.obolibrary.org/obo/NCBITaxon_36596;http://purl.obolibrary.org/obo/FOODON_03301701
+B000296|BOTTLE|http://purl.obolibrary.org/obo/FOODON_03490214
+B000297|CARAMEL|http://purl.obolibrary.org/obo/FOODON_03317034
+B000298|CIDER|http://purl.obolibrary.org/obo/FOODON_00001276
+B000299|RICE FLOUR|http://purl.obolibrary.org/obo/NCBITaxon_4530;http://purl.obolibrary.org/obo/FOODON_03307541;http://purl.obolibrary.org/obo/FOODON_03301116
+B000300|CLAM JUICE|http://purl.obolibrary.org/obo/FOODON_03307952;http://purl.obolibrary.org/obo/FOODON_03411331
+B000301|VODKA|http://purl.obolibrary.org/obo/FOODON_03305518
+B000302|STALK|http://purl.obolibrary.org/obo/PO_0025066
+B000303|STRAWBERRY JAM|http://purl.obolibrary.org/obo/NCBITaxon_3747;http://purl.obolibrary.org/obo/FOODON_03301124;http://purl.obolibrary.org/obo/FOODON_03309973
+B000304|WHIPPED CREAM|http://purl.obolibrary.org/obo/FOODON_03302897
+B000305|CHEESECAKE|http://purl.obolibrary.org/obo/FOODON_03301729
+B000306|SAND|http://purl.obolibrary.org/obo/ENVO_01000017
+B000307|ALMOND PASTE|http://purl.obolibrary.org/obo/FOODON_03305617;http://purl.obolibrary.org/obo/NCBITaxon_3755
+B000308|FRUIT COCKTAIL|http://purl.obolibrary.org/obo/PO_0009001;http://purl.obolibrary.org/obo/FOODON_03315597
+B000309|SWEETENED CONDENSED MILK|http://purl.obolibrary.org/obo/FOODON_03304384;http://purl.obolibrary.org/obo/UBERON_0001913
+B000310|HORSE|http://purl.obolibrary.org/obo/NCBITaxon_9796;http://purl.obolibrary.org/obo/FOODON_03411229
+B000311|PRUNE JUICE|http://purl.obolibrary.org/obo/FOODON_03316905;http://purl.obolibrary.org/obo/FOODON_00002177;http://purl.obolibrary.org/obo/FOODON_03303632
+B000312|PRUNE|http://purl.obolibrary.org/obo/FOODON_03316905
+B000313|MARASCHINO CHERRY|http://purl.obolibrary.org/obo/FOODON_03301256;http://purl.obolibrary.org/obo/FOODON_03301240
+B000314|JELLY ROLL|http://purl.obolibrary.org/obo/FOODON_03305899
+B000315|CANDY|http://purl.obolibrary.org/obo/FOODON_03301051
+B000316|STEEL|http://purl.obolibrary.org/obo/FOODON_03500044
+B000317|FIGS|http://purl.obolibrary.org/obo/NCBITaxon_3493
+B000318|DECORATING SUGAR|http://purl.obolibrary.org/obo/FOODON_03310913;http://purl.obolibrary.org/obo/FOODON_03420108
+B000319|MARSHMALLOW|http://purl.obolibrary.org/obo/FOODON_03305639;http://purl.obolibrary.org/obo/NCBITaxon_145745
+B000320|CUPCAKE|http://purl.obolibrary.org/obo/FOODON_03306616
+B000321|CAKE MIX|http://purl.obolibrary.org/obo/FOODON_03317068
+B000322|VANILLA PUDDING MIX|http://purl.obolibrary.org/obo/NCBITaxon_51238;http://purl.obolibrary.org/obo/FOODON_03310796;http://purl.obolibrary.org/obo/FOODON_03307096
+B000323|EGGNOG|http://purl.obolibrary.org/obo/FOODON_03301802
+B000324|RUM|http://purl.obolibrary.org/obo/FOODON_03301614
+B000325|CHOCOLATE CHIP|http://purl.obolibrary.org/obo/FOODON_03307240;http://purl.obolibrary.org/obo/FOODON_03304096
+B000326|CHOCOLATE CAKE MIX|http://purl.obolibrary.org/obo/FOODON_03317068;http://purl.obolibrary.org/obo/FOODON_03305417;http://purl.obolibrary.org/obo/FOODON_03302884
+B000327|CHOCOLATE CAKE|http://purl.obolibrary.org/obo/FOODON_03307240;http://purl.obolibrary.org/obo/FOODON_03305417
+B000328|SUGAR TOPPING|http://purl.obolibrary.org/obo/FOODON_03316039;http://purl.obolibrary.org/obo/FOODON_03420108
+B000329|CUSTARD|http://purl.obolibrary.org/obo/FOODON_03302946
+B000330|APPLE PIE FILLING|http://purl.obolibrary.org/obo/FOODON_03306766;http://purl.obolibrary.org/obo/FOODON_03305680;http://purl.obolibrary.org/obo/FOODON_00002475
+B000331|MANDARIN ORANGE|http://purl.obolibrary.org/obo/NCBITaxon_85571;http://purl.obolibrary.org/obo/FOODON_03309832
+B000332|HEAVY CREAM|http://purl.obolibrary.org/obo/FOODON_03420161;http://purl.obolibrary.org/obo/FOODON_03310795
+B000333|COOKIE DOUGH|http://purl.obolibrary.org/obo/FOODON_03310689;http://purl.obolibrary.org/obo/FOODON_03301585
+B000334|DARK CHOCOLATE|http://purl.obolibrary.org/obo/FOODON_03307240;http://purl.obolibrary.org/obo/FOODON_03303588
+B000335|CERAMIC|http://purl.obolibrary.org/obo/FOODON_03500038
+B000336|EYE|http://purl.obolibrary.org/obo/UBERON_0000970
+B000337|PIE FILLING|http://purl.obolibrary.org/obo/FOODON_03306766
+B000338|PEAR|http://purl.obolibrary.org/obo/FOODON_03301724;http://purl.obolibrary.org/obo/NCBITaxon_23211
+B000339|CHOCOLATE PUDDING MIX|http://purl.obolibrary.org/obo/FOODON_03307240;http://purl.obolibrary.org/obo/FOODON_03310796;http://purl.obolibrary.org/obo/FOODON_03307098
+B000340|JAM|http://purl.obolibrary.org/obo/FOODON_03309973
+B000341|TAPIOCA|http://purl.obolibrary.org/obo/FOODON_03307663
+B000342|CHERRY PIE|http://purl.obolibrary.org/obo/FOODON_00001720;http://purl.obolibrary.org/obo/FOODON_03306764;http://purl.obolibrary.org/obo/FOODON_03301240
+B000343|PRETZEL|http://purl.obolibrary.org/obo/FOODON_03303929
+B000344|RASPBERRY PRESERVES|http://purl.obolibrary.org/obo/FOODON_03311373
+B000345|CHINESE|http://purl.obolibrary.org/obo/hancestro_0021;http://purl.obolibrary.org/obo/ancestro_0021
+B000346|BUTTER SAUCE|http://purl.obolibrary.org/obo/FOODON_03310351;http://purl.obolibrary.org/obo/FOODON_03302627;http://purl.obolibrary.org/obo/FOODON_03311146
+B000347|DRY MIX|http://purl.obolibrary.org/obo/FOODON_03530090
+B000348|YELLOW CAKE MIX|http://purl.obolibrary.org/obo/FOODON_03302835;http://purl.obolibrary.org/obo/FOODON_03317068
+B000349|CARROT|http://purl.obolibrary.org/obo/NCBITaxon_4039
+B000350|LENGTH|http://purl.obolibrary.org/obo/PATO_0000122
+B000351|TOFFEE|http://purl.obolibrary.org/obo/FOODON_03303765
+B000352|PEPPERMINT|http://purl.obolibrary.org/obo/FOODON_03303920;http://purl.obolibrary.org/obo/NCBITaxon_34256
+B000353|HAZELNUTS|http://purl.obolibrary.org/obo/NCBITaxon_13450
+B000354|MACADAMIA|http://purl.obolibrary.org/obo/NCBITaxon_4329
+B000355|CORN FLAKES|http://purl.obolibrary.org/obo/NCBITaxon_381124;http://purl.obolibrary.org/obo/FOODON_03302904
+B000356|INFANT CEREAL|http://purl.obolibrary.org/obo/FOODON_03301336
+B000357|PALMS|http://purl.obolibrary.org/obo/NCBITaxon_4710
+B000358|GINGERBREAD|http://purl.obolibrary.org/obo/FOODON_03301912
+B000359|CITRUS|http://purl.obolibrary.org/obo/NCBITaxon_2706
+B000360|CUSTARD POWDER|http://purl.obolibrary.org/obo/FOODON_03302923;http://purl.obolibrary.org/obo/FOODON_03302946
+B000361|LARD|http://purl.obolibrary.org/obo/FOODON_03302051
+B000362|SWEET CHOCOLATE|http://purl.obolibrary.org/obo/FOODON_03307240;http://purl.obolibrary.org/obo/FOODON_03310448
+B000363|TEQUILA|http://purl.obolibrary.org/obo/FOODON_03304704
+B000364|IRISH|http://purl.obolibrary.org/obo/ancestro_0383;http://purl.obolibrary.org/obo/hancestro_0383
+B000365|GIN|http://purl.obolibrary.org/obo/FOODON_03309491
+B000366|BURGUNDY WINE|http://purl.obolibrary.org/obo/FOODON_03304564
+B000367|LEMONADE|http://purl.obolibrary.org/obo/FOODON_03301630
+B000368|LIMEADE|http://purl.obolibrary.org/obo/FOODON_03307062
+B000369|COFFEE MIXTURE|http://purl.obolibrary.org/obo/CHEBI_60004;http://purl.obolibrary.org/obo/FOODON_03317674
+B000370|CHAMPAGNE|http://purl.obolibrary.org/obo/FOODON_03301564
+B000371|TONIC WATER|http://purl.obolibrary.org/obo/FOODON_03307660;http://purl.obolibrary.org/obo/ENVO_00002006
+B000372|BEVERAGE|http://purl.obolibrary.org/obo/FOODON_03301977
+B000373|CRANBERRY JUICE|http://purl.obolibrary.org/obo/FOODON_03301671
+B000374|PUERTO RICAN|http://purl.obolibrary.org/obo/hancestro_0421;http://purl.obolibrary.org/obo/ancestro_0421
+B000375|BITTERS|http://purl.obolibrary.org/obo/FOODON_03302713
+B000376|RYE|http://purl.obolibrary.org/obo/NCBITaxon_4550
+B000377|SELTZER WATER|http://purl.obolibrary.org/obo/ENVO_00002006;http://purl.obolibrary.org/obo/FOODON_03309897
+B000378|CRANBERRY SAUCE|http://purl.obolibrary.org/obo/FOODON_03301244;http://purl.obolibrary.org/obo/FOODON_03311146
+B000379|GINGER ALE|http://purl.obolibrary.org/obo/NCBITaxon_94328;http://purl.obolibrary.org/obo/FOODON_03302111;http://purl.obolibrary.org/obo/FOODON_03307130
+B000380|SNAKES|http://purl.obolibrary.org/obo/NCBITaxon_8570
+B000381|GUMMY|http://purl.obolibrary.org/obo/FOODON_03430176
+B000382|TOMATO JUICE|http://purl.obolibrary.org/obo/NCBITaxon_4081;http://purl.obolibrary.org/obo/FOODON_03301454
+B000383|PASSION FRUIT JUICE|http://purl.obolibrary.org/obo/FOODON_00002087;http://purl.obolibrary.org/obo/FOODON_03411634
+B000384|PASSION FRUIT|http://purl.obolibrary.org/obo/NCBITaxon_78168;http://purl.obolibrary.org/obo/PO_0009001;http://purl.obolibrary.org/obo/FOODON_03411634
+B000385|CREAM LIQUEUR|http://purl.obolibrary.org/obo/FOODON_03301638;http://purl.obolibrary.org/obo/FOODON_03301008
+B000386|SPIRULINA|http://purl.obolibrary.org/obo/FOODON_03412039
+B000387|PINEAPPLE AND ORANGE JUICE|http://purl.obolibrary.org/obo/FOODON_03304098;http://purl.obolibrary.org/obo/FOODON_03309832;http://purl.obolibrary.org/obo/NCBITaxon_4615
+B000388|ORANGE JUICE BLEND|http://purl.obolibrary.org/obo/FOODON_03306030;http://purl.obolibrary.org/obo/FOODON_03309832
+B000389|FROZEN YOGURT|http://purl.obolibrary.org/obo/PATO_0001985;http://purl.obolibrary.org/obo/FOODON_03307445
+B000390|BRANDY|http://purl.obolibrary.org/obo/FOODON_03301632
+B000391|GRAPE JUICE|http://purl.obolibrary.org/obo/FOODON_00001926;http://purl.obolibrary.org/obo/FOODON_03301127
+B000392|HONEY SYRUP|http://purl.obolibrary.org/obo/FOODON_03303225;http://purl.obolibrary.org/obo/UBERON_0036016;http://purl.obolibrary.org/obo/FOODON_03305528
+B000393|TEA BAG|http://purl.obolibrary.org/obo/FOODON_03310489
+B000394|SODA WATER|http://purl.obolibrary.org/obo/FOODON_03302269;http://purl.obolibrary.org/obo/ENVO_00002006
+B000395|MONKEY|http://purl.obolibrary.org/obo/FOODON_03412439;http://purl.obolibrary.org/obo/NCBITaxon_9527;http://purl.obolibrary.org/obo/NCBITaxon_9479
+B000396|POMEGRANATE|http://purl.obolibrary.org/obo/NCBITaxon_22663
+B000397|CASHEW BUTTER|http://purl.obolibrary.org/obo/FOODON_03310351;http://purl.obolibrary.org/obo/NCBITaxon_171929;http://purl.obolibrary.org/obo/FOODON_03303382
+B000398|HEMP|http://purl.obolibrary.org/obo/NCBITaxon_3483
+B000399|ROOT BEER|http://purl.obolibrary.org/obo/FOODON_03301047;http://purl.obolibrary.org/obo/FOODON_03420306;http://purl.obolibrary.org/obo/FOODON_03301619
+B000400|SANGRIA|http://purl.obolibrary.org/obo/FOODON_03317455
+B000401|GLASS CONTAINER|http://purl.obolibrary.org/obo/FOODON_03490130;http://purl.obolibrary.org/obo/FOODON_03500040
+B000402|NUT MILK|http://purl.obolibrary.org/obo/UBERON_0001913;http://purl.obolibrary.org/obo/FOODON_03420214
+B000403|FLAXSEED OIL|http://purl.obolibrary.org/obo/FOODON_03310387;http://purl.obolibrary.org/obo/FOODON_03460852
+B000404|CLASS|http://purl.obolibrary.org/obo/NCBITaxon_class
+B000405|MARGARITA MIX|http://purl.obolibrary.org/obo/FOODON_03305159
+B000406|MANGOSTEEN|http://purl.obolibrary.org/obo/NCBITaxon_58228
+B000407|CHOCOLATE DRINK|http://purl.obolibrary.org/obo/FOODON_03307240;http://purl.obolibrary.org/obo/FOODON_03306569
+B000408|SHERBET|http://purl.obolibrary.org/obo/FOODON_03302854
+B000409|PORT WINE|http://purl.obolibrary.org/obo/FOODON_03311271
+B000410|SWEDISH|http://purl.obolibrary.org/obo/ancestro_0393;http://purl.obolibrary.org/obo/hancestro_0393
+B000411|VANILLA POWDER|http://purl.obolibrary.org/obo/FOODON_03316761;http://purl.obolibrary.org/obo/NCBITaxon_51238
+B000412|MACE|http://purl.obolibrary.org/obo/NCBITaxon_51089
+B000413|CHERRY JUICE|http://purl.obolibrary.org/obo/FOODON_00001718;http://purl.obolibrary.org/obo/FOODON_03301144;http://purl.obolibrary.org/obo/FOODON_03301240
+B000414|CHICKPEA|http://purl.obolibrary.org/obo/NCBITaxon_3827
+B000415|SQUASH|http://purl.obolibrary.org/obo/FOODON_03301577
+B000416|LEG|http://purl.obolibrary.org/obo/UBERON_0000978
+B000417|CIDER VINEGAR|http://purl.obolibrary.org/obo/FOODON_03301705;http://purl.obolibrary.org/obo/FOODON_00001276;http://purl.obolibrary.org/obo/FOODON_03307916
+B000418|SPICE MIXTURE|http://purl.obolibrary.org/obo/FOODON_03303380;http://purl.obolibrary.org/obo/FOODON_03304292;http://purl.obolibrary.org/obo/CHEBI_60004
+B000419|TANDOORI|http://purl.obolibrary.org/obo/FOODON_03317543
+B000420|MEAT SAUCE|http://purl.obolibrary.org/obo/FOODON_03311146;http://purl.obolibrary.org/obo/FOODON_03304132
+B000421|CELERY SEED|http://purl.obolibrary.org/obo/FOODON_03301862;http://purl.obolibrary.org/obo/NCBITaxon_117781;http://purl.obolibrary.org/obo/PO_0009010
+B000422|MEATLOAF|http://purl.obolibrary.org/obo/FOODON_03315662
+B000423|BOUILLON CUBE|http://purl.obolibrary.org/obo/FOODON_03301469;http://purl.obolibrary.org/obo/FOODON_03301468
+B000424|LAMB|http://purl.obolibrary.org/obo/FOODON_03411669
+B000425|SCALLOPS|http://purl.obolibrary.org/obo/NCBITaxon_6566
+B000426|SPICE RUB|http://purl.obolibrary.org/obo/FOODON_03303380;http://purl.obolibrary.org/obo/FOODON_00002500
+B000427|BROWN GRAVY MIX|http://purl.obolibrary.org/obo/FOODON_03305313;http://purl.obolibrary.org/obo/FOODON_03305336
+B000428|ENCHILADA SAUCE|http://purl.obolibrary.org/obo/FOODON_03304007;http://purl.obolibrary.org/obo/FOODON_03311146
+B000429|BUTTER WITH GARLIC|http://purl.obolibrary.org/obo/FOODON_03310351;http://purl.obolibrary.org/obo/FOODON_03302520;http://purl.obolibrary.org/obo/NCBITaxon_4682
+B000430|RICE WINE|http://purl.obolibrary.org/obo/NCBITaxon_4530;http://purl.obolibrary.org/obo/FOODON_03307312
+B000431|BROWN GRAVY|http://purl.obolibrary.org/obo/FOODON_03305313
+B000432|BEEF BROTH|http://purl.obolibrary.org/obo/FOODON_03309462;http://purl.obolibrary.org/obo/FOODON_03302091
+B000433|FAMILY|http://purl.obolibrary.org/obo/NCBITaxon_family
+B000434|LIVER|http://purl.obolibrary.org/obo/UBERON_0002107
+B000435|OYSTER SAUCE|http://purl.obolibrary.org/obo/FOODON_03411224;http://purl.obolibrary.org/obo/FOODON_03317654;http://purl.obolibrary.org/obo/FOODON_03311146
+B000436|MEAT TENDERIZER|http://purl.obolibrary.org/obo/FOODON_03301313
+B000437|PEANUT SAUCE|http://purl.obolibrary.org/obo/FOODON_03311869;http://purl.obolibrary.org/obo/NCBITaxon_3818;http://purl.obolibrary.org/obo/FOODON_03311146
+B000438|HALIBUT|http://purl.obolibrary.org/obo/FOODON_03411532
+B000439|HOISIN SAUCE|http://purl.obolibrary.org/obo/FOODON_00002526;http://purl.obolibrary.org/obo/FOODON_03311146
+B000440|DUTCH|http://purl.obolibrary.org/obo/hancestro_0320;http://purl.obolibrary.org/obo/ancestro_0320
+B000441|WILD RICE|http://purl.obolibrary.org/obo/NCBITaxon_4530;http://purl.obolibrary.org/obo/NCBITaxon_15949
+B000442|GARLIC OIL|http://purl.obolibrary.org/obo/FOODON_03310387;http://purl.obolibrary.org/obo/FOODON_03309417;http://purl.obolibrary.org/obo/NCBITaxon_4682
+B000443|PEA|http://purl.obolibrary.org/obo/NCBITaxon_3888
+B000444|FISH SKIN|http://purl.obolibrary.org/obo/FOODON_03308045;http://purl.obolibrary.org/obo/FOODON_03411222
+B000445|BAKED BEANS|http://purl.obolibrary.org/obo/FOODON_03301946
+B000446|KIDNEY|http://purl.obolibrary.org/obo/UBERON_0002113
+B000447|APRICOT PRESERVES|http://purl.obolibrary.org/obo/FOODON_03301701;http://purl.obolibrary.org/obo/FOODON_03306398
+B000448|APPLE JELLY|http://purl.obolibrary.org/obo/FOODON_03305889;http://purl.obolibrary.org/obo/FOODON_03301710
+B000449|LOIN|http://purl.obolibrary.org/obo/FOODON_03530031
+B000450|APRICOT JAM|http://purl.obolibrary.org/obo/FOODON_03305781;http://purl.obolibrary.org/obo/FOODON_03301701;http://purl.obolibrary.org/obo/FOODON_03309973
+B000451|TILAPIA|http://purl.obolibrary.org/obo/NCBITaxon_8126;http://purl.obolibrary.org/obo/FOODON_03412434
+B000452|BRISKET|http://purl.obolibrary.org/obo/FOODON_03530020
+B000453|CHILI PASTE|http://purl.obolibrary.org/obo/FOODON_03315435
+B000454|TACO SHELL|http://purl.obolibrary.org/obo/FOODON_03310227
+B000455|YELLOW MUSTARD|http://purl.obolibrary.org/obo/NCBITaxon_3728
+B000456|GORGONZOLA CHEESE|http://purl.obolibrary.org/obo/FOODON_03303502
+B000457|COUSCOUS|http://purl.obolibrary.org/obo/FOODON_03303207
+B000458|MAHI MAHI|http://purl.obolibrary.org/obo/FOODON_03411917
+B000459|AMERICAN|http://purl.obolibrary.org/obo/hancestro_0463;http://purl.obolibrary.org/obo/ancestro_0463
+B000460|GARLIC IN BUTTER|http://purl.obolibrary.org/obo/FOODON_03310351;http://purl.obolibrary.org/obo/NCBITaxon_4682;http://purl.obolibrary.org/obo/FOODON_03311709
+B000461|INCH|http://purl.obolibrary.org/obo/UO_0010011
+B000462|HOUR|http://purl.obolibrary.org/obo/UO_0000032
+B000463|NORI|http://purl.obolibrary.org/obo/FOODON_03315448
+B000464|HOT DOG|http://purl.obolibrary.org/obo/NCBITaxon_9615;http://purl.obolibrary.org/obo/FOODON_00001009
+B000465|DOG|http://purl.obolibrary.org/obo/NCBITaxon_9615;http://purl.obolibrary.org/obo/FOODON_03414847
+B000466|DOGS|http://purl.obolibrary.org/obo/NCBITaxon_9615
+B000467|LOBSTER|http://purl.obolibrary.org/obo/FOODON_03411505
+B000468|SECOND|http://purl.obolibrary.org/obo/UO_0000010
+B000469|MINUTE|http://purl.obolibrary.org/obo/UO_0000031
+B000470|POUND|http://purl.obolibrary.org/obo/UO_0010034
+B000471|QUART|http://purl.obolibrary.org/obo/UO_0010029
+B000472|WEEK|http://purl.obolibrary.org/obo/UO_0000034
+B000473|MASA|http://purl.obolibrary.org/obo/FOODON_00002529
+B000474|GRUYERE CHEESE|http://purl.obolibrary.org/obo/FOODON_03303686
+B000475|CLAM|http://purl.obolibrary.org/obo/FOODON_03411331
+B000476|WATER CHESTNUT|http://purl.obolibrary.org/obo/NCBITaxon_22666;http://purl.obolibrary.org/obo/ENVO_00002006
+B000477|GALLON|http://purl.obolibrary.org/obo/UO_0010030
+B000478|DILL PICKLE|http://purl.obolibrary.org/obo/FOODON_03306757
+B000479|PATE|http://purl.obolibrary.org/obo/FOODON_03315925
+B000480|BREAD STUFFING MIX|http://purl.obolibrary.org/obo/FOODON_03310702
+B000481|DAB|http://purl.obolibrary.org/obo/NCBITaxon_27771
+B000482|PEARS|http://purl.obolibrary.org/obo/NCBITaxon_3766
+B000483|EGG ROLL|http://purl.obolibrary.org/obo/FOODON_03303375
+B000484|ENGLISH MUFFIN|http://purl.obolibrary.org/obo/FOODON_03305833
+B000485|TOMATO SOUP|http://purl.obolibrary.org/obo/FOODON_03304909;http://purl.obolibrary.org/obo/NCBITaxon_4081
+B000486|PLAIN|http://purl.obolibrary.org/obo/ENVO_00000086
+B000487|RELISH|http://purl.obolibrary.org/obo/FOODON_03304648
+B000488|THOUSAND ISLAND DRESSING|http://purl.obolibrary.org/obo/FOODON_03304032;http://purl.obolibrary.org/obo/FOODON_03315498
+B000489|WHEAT CEREAL|http://purl.obolibrary.org/obo/FOODON_03312031;http://purl.obolibrary.org/obo/NCBITaxon_4565
+B000490|ITALIAN BREAD|http://purl.obolibrary.org/obo/ancestro_0307;http://purl.obolibrary.org/obo/FOODON_03302692
+B000491|NACHOS|http://purl.obolibrary.org/obo/FOODON_00002533
+B000492|SNAKE|http://purl.obolibrary.org/obo/FOODON_03411295
+B000493|SWEET PICKLE|http://purl.obolibrary.org/obo/FOODON_03306940
+B000494|PUMPERNICKEL BREAD|http://purl.obolibrary.org/obo/FOODON_03302357
+B000495|CONCH|http://purl.obolibrary.org/obo/FOODON_03411259
+B000496|JICAMA|http://purl.obolibrary.org/obo/NCBITaxon_205481;http://purl.obolibrary.org/obo/NCBITaxon_109171
+B000497|CHEESE FILLING|http://purl.obolibrary.org/obo/FOODON_03309371
+B000498|PINT|http://purl.obolibrary.org/obo/UO_0010028
+B000499|SOURDOUGH BREAD|http://purl.obolibrary.org/obo/FOODON_03302481
+B000500|LEMONADE MIX|http://purl.obolibrary.org/obo/FOODON_03301630;http://purl.obolibrary.org/obo/FOODON_03305777
+B000501|DAY|http://purl.obolibrary.org/obo/UO_0000033
+B000502|PHEASANT|http://purl.obolibrary.org/obo/FOODON_03411460
+B000503|DEPRESSION|http://purl.obolibrary.org/obo/ENVO_00000309
+B000504|SEALS|http://purl.obolibrary.org/obo/NCBITaxon_9709
+B000505|BEEF BACON|http://purl.obolibrary.org/obo/FOODON_03316638
+B000506|FRUIT PRESERVES|http://purl.obolibrary.org/obo/PO_0009001;http://purl.obolibrary.org/obo/FOODON_03305304
+B000507|LEMON JUICE CONCENTRATE|http://purl.obolibrary.org/obo/FOODON_03305428;http://purl.obolibrary.org/obo/FOODON_03302712
+B000508|DEPTH|http://purl.obolibrary.org/obo/PATO_0001595
+B000509|CREAM OF CELERY SOUP|http://purl.obolibrary.org/obo/NCBITaxon_117781;http://purl.obolibrary.org/obo/FOODON_03310560
+B000510|SCALLOP|http://purl.obolibrary.org/obo/FOODON_03411489
+B000511|COLESLAW DRESSING|http://purl.obolibrary.org/obo/FOODON_03307700;http://purl.obolibrary.org/obo/FOODON_03315498
+B000512|CHEESE STICK|http://purl.obolibrary.org/obo/FOODON_03302014
+B000513|GILL|http://purl.obolibrary.org/obo/UO_0010027
+B000514|GNOCCHI|http://purl.obolibrary.org/obo/FOODON_03317446
+B000515|RUSSIAN DRESSING|http://purl.obolibrary.org/obo/FOODON_03306669;http://purl.obolibrary.org/obo/hancestro_0386;http://purl.obolibrary.org/obo/FOODON_03315498
+B000516|POTATO SALAD|http://purl.obolibrary.org/obo/FOODON_03304708;http://purl.obolibrary.org/obo/FOODON_03316042;http://purl.obolibrary.org/obo/NCBITaxon_4113
+B000517|ESCARGOT|http://purl.obolibrary.org/obo/FOODON_03413663
+B000518|PISTACHIO|http://purl.obolibrary.org/obo/NCBITaxon_55513
+B000519|BLUEBERRY PIE FILLING|http://purl.obolibrary.org/obo/FOODON_03306672;http://purl.obolibrary.org/obo/FOODON_03306766
+B000520|DUCK|http://purl.obolibrary.org/obo/FOODON_03411316;http://purl.obolibrary.org/obo/NCBITaxon_8839
+B000521|ANCHOVIES|http://purl.obolibrary.org/obo/NCBITaxon_43062
+B000522|OUNCE|http://purl.obolibrary.org/obo/UO_0010033
+B000523|ITALIAN CHEESE|http://purl.obolibrary.org/obo/ancestro_0307;http://purl.obolibrary.org/obo/FOODON_03310353
+B000524|WHITE BREAD|http://purl.obolibrary.org/obo/FOODON_03301055
+B000525|WOOD|http://purl.obolibrary.org/obo/FOODON_03500035;http://purl.obolibrary.org/obo/FOODON_03420309
+B000526|TANGERINE|http://purl.obolibrary.org/obo/NCBITaxon_85571;http://purl.obolibrary.org/obo/FOODON_03315108
+B000527|ARTICHOKE HEART|http://purl.obolibrary.org/obo/NCBITaxon_59895;http://purl.obolibrary.org/obo/UBERON_0000948;http://purl.obolibrary.org/obo/FOODON_03301188
+B000528|HUSH PUPPY|http://purl.obolibrary.org/obo/FOODON_03305512
+B000529|PEANUT|http://purl.obolibrary.org/obo/NCBITaxon_3818
+B000530|SEA SCALLOP|http://purl.obolibrary.org/obo/ENVO_00000016;http://purl.obolibrary.org/obo/FOODON_03411050;http://purl.obolibrary.org/obo/FOODON_03411489;http://purl.obolibrary.org/obo/NCBITaxon_6577
+B000531|TATER TOT|http://purl.obolibrary.org/obo/FOODON_03311863
+B000532|PLUM|http://purl.obolibrary.org/obo/NCBITaxon_3758
+B000533|PEPPER JELLY|http://purl.obolibrary.org/obo/FOODON_03306074
+B000534|OAT FLOUR|http://purl.obolibrary.org/obo/FOODON_03301312;http://purl.obolibrary.org/obo/FOODON_03301116
+B000535|MANGO CHUTNEY|http://purl.obolibrary.org/obo/NCBITaxon_29780;http://purl.obolibrary.org/obo/FOODON_03317544;http://purl.obolibrary.org/obo/FOODON_03302725
+B000536|CHUTNEY|http://purl.obolibrary.org/obo/FOODON_03317544
+B000537|MILK CHOCOLATE|http://purl.obolibrary.org/obo/FOODON_03307240;http://purl.obolibrary.org/obo/FOODON_03302806;http://purl.obolibrary.org/obo/UBERON_0001913
+B000538|CHICKENS|http://purl.obolibrary.org/obo/NCBITaxon_9031
+B000539|ORANGE MARMALADE|http://purl.obolibrary.org/obo/FOODON_03306377;http://purl.obolibrary.org/obo/FOODON_03309832;http://purl.obolibrary.org/obo/FOODON_03302512
+B000540|HOMINY|http://purl.obolibrary.org/obo/FOODON_03310226
+B000541|CANDY CORN|http://purl.obolibrary.org/obo/FOODON_03301051;http://purl.obolibrary.org/obo/FOODON_03302541;http://purl.obolibrary.org/obo/NCBITaxon_381124
+B000542|COOKING SHERRY|http://purl.obolibrary.org/obo/FOODON_03310760;http://purl.obolibrary.org/obo/FOODON_03307295
+B000543|BUTTERMILK BISCUIT|http://purl.obolibrary.org/obo/FOODON_03302614
+B000544|BOURBON WHISKEY|http://purl.obolibrary.org/obo/FOODON_03309410;http://purl.obolibrary.org/obo/FOODON_03302775
+B000545|JERUSALEM ARTICHOKE|http://purl.obolibrary.org/obo/NCBITaxon_59895;http://purl.obolibrary.org/obo/NCBITaxon_4233
+B000546|RYE FLOUR|http://purl.obolibrary.org/obo/NCBITaxon_4550;http://purl.obolibrary.org/obo/FOODON_03301116;http://purl.obolibrary.org/obo/FOODON_03302492
+B000547|TRUFFLE|http://purl.obolibrary.org/obo/FOODON_03411387
+B000548|HERB MIXTURE|http://purl.obolibrary.org/obo/FOODON_03305543;http://purl.obolibrary.org/obo/CHEBI_60004
+B000549|GOLDFISH|http://purl.obolibrary.org/obo/FOODON_03414858;http://purl.obolibrary.org/obo/NCBITaxon_7957
+B000550|DUMPLING|http://purl.obolibrary.org/obo/FOODON_03306619
+B000551|REMOULADE|http://purl.obolibrary.org/obo/FOODON_03310485
+B000552|FRYING OIL|http://purl.obolibrary.org/obo/FOODON_03316044;http://purl.obolibrary.org/obo/FOODON_03310387
+B000553|JALAPENO JELLY|http://purl.obolibrary.org/obo/FOODON_03306075
+B000554|CRAB SPREAD|http://purl.obolibrary.org/obo/FOODON_03308595;http://purl.obolibrary.org/obo/FOODON_03411335
+B000555|TORTILLA CHIP|http://purl.obolibrary.org/obo/FOODON_03307668;http://purl.obolibrary.org/obo/FOODON_03310710
+B000556|WIDTH|http://purl.obolibrary.org/obo/PATO_0000921
+B000557|BREWER'S YEAST|http://purl.obolibrary.org/obo/FOODON_03315025;http://purl.obolibrary.org/obo/NCBITaxon_4932
+B000558|TEMPEH|http://purl.obolibrary.org/obo/FOODON_03304999
+B000559|CORN MUFFIN MIX|http://purl.obolibrary.org/obo/FOODON_03305164;http://purl.obolibrary.org/obo/NCBITaxon_381124
+B000560|FONTINA CHEESE|http://purl.obolibrary.org/obo/FOODON_03310415
+B000561|ARUGULA|http://purl.obolibrary.org/obo/NCBITaxon_29727
+B000562|SESAME SEED|http://purl.obolibrary.org/obo/FOODON_03310306;http://purl.obolibrary.org/obo/PO_0009010
+B000563|SEED OIL|http://purl.obolibrary.org/obo/FOODON_03310387;http://purl.obolibrary.org/obo/PO_0009010;http://purl.obolibrary.org/obo/FOODON_03420307
+B000564|COOKING OIL|http://purl.obolibrary.org/obo/FOODON_03310387;http://purl.obolibrary.org/obo/FOODON_03302653
+B000565|PIE CRUST DOUGH|http://purl.obolibrary.org/obo/FOODON_03307629
+B000566|ASAFOETIDA|http://purl.obolibrary.org/obo/NCBITaxon_52471
+B000567|BISON|http://purl.obolibrary.org/obo/FOODON_03412098;http://purl.obolibrary.org/obo/NCBITaxon_9900;http://purl.obolibrary.org/obo/NCBITaxon_9901;http://purl.obolibrary.org/obo/NCBITaxon_9902
+B000568|MACKEREL|http://purl.obolibrary.org/obo/FOODON_03411043
+B000569|SWORDFISH|http://purl.obolibrary.org/obo/FOODON_03411427;http://purl.obolibrary.org/obo/NCBITaxon_8245
+B000570|GREEK|http://purl.obolibrary.org/obo/ancestro_0366;http://purl.obolibrary.org/obo/hancestro_0366
+B000571|SLOPE|http://purl.obolibrary.org/obo/ENVO_00002000
+B000572|CONDIMENT|http://purl.obolibrary.org/obo/FOODON_03315708
+B000573|CURRY|http://purl.obolibrary.org/obo/FOODON_03306648
+B000574|BEET|http://purl.obolibrary.org/obo/NCBITaxon_161934
+B000575|PEPPERCORN|http://purl.obolibrary.org/obo/FOODON_03310070
+B000576|COCONUT CREAM|http://purl.obolibrary.org/obo/FOODON_03303088
+B000577|CORN PUFF|http://purl.obolibrary.org/obo/FOODON_03311180;http://purl.obolibrary.org/obo/NCBITaxon_381124
+B000578|RAZOR CLAMS|http://purl.obolibrary.org/obo/NCBITaxon_6585
+B000579|SPROUT|http://purl.obolibrary.org/obo/FOODON_03420183
+B000580|CATFISH|http://purl.obolibrary.org/obo/FOODON_03412620
+B000581|SPANISH|http://purl.obolibrary.org/obo/ancestro_0392;http://purl.obolibrary.org/obo/hancestro_0392
+B000582|FENNEL|http://purl.obolibrary.org/obo/NCBITaxon_48038
+B000583|PILAF|http://purl.obolibrary.org/obo/FOODON_03307010
+B000584|POTATO PATTY|http://purl.obolibrary.org/obo/FOODON_03311416;http://purl.obolibrary.org/obo/NCBITaxon_4113
+B000585|BROWN MUSTARD|http://purl.obolibrary.org/obo/NCBITaxon_3707
+B000586|ALLIGATOR|http://purl.obolibrary.org/obo/NCBITaxon_8495;http://purl.obolibrary.org/obo/FOODON_03412440
+B000587|FRENCH DRESSING|http://purl.obolibrary.org/obo/ancestro_0363;http://purl.obolibrary.org/obo/FOODON_03301903;http://purl.obolibrary.org/obo/FOODON_03315498
+B000588|ROQUEFORT CHEESE|http://purl.obolibrary.org/obo/FOODON_00002424
+B000589|BREAD FLOUR|http://purl.obolibrary.org/obo/FOODON_03301116;http://purl.obolibrary.org/obo/FOODON_03304043
+B000590|CORN OIL|http://purl.obolibrary.org/obo/FOODON_03310387;http://purl.obolibrary.org/obo/NCBITaxon_381124;http://purl.obolibrary.org/obo/FOODON_03301474
+B000591|PRALINE|http://purl.obolibrary.org/obo/FOODON_03301758
+B000592|SHRIMP COCKTAIL|http://purl.obolibrary.org/obo/FOODON_03308565;http://purl.obolibrary.org/obo/FOODON_03411237
+B000593|WHITE SAUCE|http://purl.obolibrary.org/obo/FOODON_03307686;http://purl.obolibrary.org/obo/FOODON_03311146
+B000594|SHRIMP PASTE|http://purl.obolibrary.org/obo/FOODON_03309823;http://purl.obolibrary.org/obo/FOODON_03411237
+B000595|FILET|http://purl.obolibrary.org/obo/FOODON_03530144
+B000596|BOLOGNA|http://purl.obolibrary.org/obo/FOODON_03306503
+B000597|CREAM CHEESE SPREAD|http://purl.obolibrary.org/obo/FOODON_03302019;http://purl.obolibrary.org/obo/FOODON_03315638;http://purl.obolibrary.org/obo/FOODON_03301889
+B000598|VEGETABLE JUICE COCKTAIL|http://purl.obolibrary.org/obo/FOODON_03303630
+B000599|CHEESE SALAD DRESSING|http://purl.obolibrary.org/obo/FOODON_03303223;http://purl.obolibrary.org/obo/FOODON_03304717
+B000600|BRAUNSCHWEIGER|http://purl.obolibrary.org/obo/FOODON_03317299
+B000601|KIWI|http://purl.obolibrary.org/obo/FOODON_03414363
+B000602|CHIPPED BEEF|http://purl.obolibrary.org/obo/FOODON_03303097
+B000603|PIG|http://purl.obolibrary.org/obo/NCBITaxon_9823
+B000604|FRUIT MIX|http://purl.obolibrary.org/obo/PO_0009001;http://purl.obolibrary.org/obo/FOODON_03305222
+B000605|GREEN OLIVE|http://purl.obolibrary.org/obo/FOODON_03301269
+B000606|ASIAN|http://purl.obolibrary.org/obo/ancestro_0008;http://purl.obolibrary.org/obo/hancestro_0008
+B000607|BARBEQUE SEASONING|http://purl.obolibrary.org/obo/FOODON_03304158
+B000608|MOOSE|http://purl.obolibrary.org/obo/FOODON_03411257
+B000609|LEEK|http://purl.obolibrary.org/obo/NCBITaxon_4681
+B000610|CHICKEN ROLL|http://purl.obolibrary.org/obo/FOODON_03411457;http://purl.obolibrary.org/obo/FOODON_03310589
+B000611|BULB|http://purl.obolibrary.org/obo/FOODON_03420290
+B000612|TURBINADO SUGAR|http://purl.obolibrary.org/obo/FOODON_03304305;http://purl.obolibrary.org/obo/FOODON_03420108
+B000613|WHOLE WHEAT BREAD|http://purl.obolibrary.org/obo/FOODON_03301119;http://purl.obolibrary.org/obo/FOODON_03302200
+B000614|WHEAT BREAD|http://purl.obolibrary.org/obo/FOODON_03302200;http://purl.obolibrary.org/obo/NCBITaxon_4565
+B000615|CHILI SEASONING|http://purl.obolibrary.org/obo/FOODON_03303355
+B000616|OBJECT|http://purl.obolibrary.org/obo/BFO_0000030
+B000617|PAPER WRAPPER|http://purl.obolibrary.org/obo/FOODON_03490173
+B000618|FUNGUS|http://purl.obolibrary.org/obo/FOODON_03411261
+B000619|NOODLE|http://purl.obolibrary.org/obo/FOODON_03306944
+B000620|SOYBEANS|http://purl.obolibrary.org/obo/NCBITaxon_3847
+B000621|SHISO|http://purl.obolibrary.org/obo/FOODON_03306141
+B000622|BARK|http://purl.obolibrary.org/obo/FOODON_03420264
+B000623|MUENSTER CHEESE|http://purl.obolibrary.org/obo/FOODON_03303682
+B000624|CAVIAR|http://purl.obolibrary.org/obo/FOODON_03301080
+B000625|BUILDING|http://purl.obolibrary.org/obo/ENVO_00000073
+B000626|EGG SALAD|http://purl.obolibrary.org/obo/FOODON_03304628;http://purl.obolibrary.org/obo/FOODON_03316042
+B000627|SPICE MIX|http://purl.obolibrary.org/obo/FOODON_03303380;http://purl.obolibrary.org/obo/FOODON_03304292
+B000628|TROUT|http://purl.obolibrary.org/obo/FOODON_03411258
+B000629|POTATO CHIP|http://purl.obolibrary.org/obo/NCBITaxon_4113;http://purl.obolibrary.org/obo/FOODON_03301833
+B000630|CHICKEN SPREAD|http://purl.obolibrary.org/obo/FOODON_03303021;http://purl.obolibrary.org/obo/FOODON_03411457
+B000631|SAFFLOWER|http://purl.obolibrary.org/obo/NCBITaxon_4222
+B000632|CENTIMETER|http://purl.obolibrary.org/obo/UO_0000015
+B000633|INSECT|http://purl.obolibrary.org/obo/FOODON_03411220
+B000634|PEA FLOUR|http://purl.obolibrary.org/obo/FOODON_03306693;http://purl.obolibrary.org/obo/FOODON_03301116;http://purl.obolibrary.org/obo/NCBITaxon_3888
+B000635|HEART|http://purl.obolibrary.org/obo/UBERON_0000948
+B000636|FRUIT PULP|http://purl.obolibrary.org/obo/PO_0009001;http://purl.obolibrary.org/obo/FOODON_03301109
+B000637|PECTIN|http://purl.obolibrary.org/obo/CHEBI_17309
+B000638|QUINCE|http://purl.obolibrary.org/obo/NCBITaxon_36610
+B000639|EUROPE|http://purl.obolibrary.org/obo/GAZ_00000464
+B000640|SHIITAKE MUSHROOM|http://purl.obolibrary.org/obo/FOODON_00001287;http://purl.obolibrary.org/obo/FOODON_03411635
+B000641|SIRLOIN|http://purl.obolibrary.org/obo/FOODON_03530027
+B000642|COTIJA CHEESE|http://purl.obolibrary.org/obo/FOODON_00002542
+B000643|CRAB CAKE|http://purl.obolibrary.org/obo/FOODON_03305365;http://purl.obolibrary.org/obo/FOODON_03411335
+B000644|LIGHT CREAM|http://purl.obolibrary.org/obo/FOODON_03420160
+B000645|CORNBREAD|http://purl.obolibrary.org/obo/FOODON_03302343
+B000646|LUNCHEON MEAT|http://purl.obolibrary.org/obo/FOODON_03310675
+B000647|DEER|http://purl.obolibrary.org/obo/NCBITaxon_9850;http://purl.obolibrary.org/obo/FOODON_03411583
+B000648|ONION RING|http://purl.obolibrary.org/obo/FOODON_03316347;http://purl.obolibrary.org/obo/FOODON_03306684
+B000649|CHICKPEA FLOUR|http://purl.obolibrary.org/obo/NCBITaxon_3827;http://purl.obolibrary.org/obo/FOODON_03301116;http://purl.obolibrary.org/obo/FOODON_03304537
+B000650|CORN MEAL|http://purl.obolibrary.org/obo/FOODON_03310257;http://purl.obolibrary.org/obo/NCBITaxon_381124
+B000651|SNOW CRAB|http://purl.obolibrary.org/obo/NCBITaxon_41210;http://purl.obolibrary.org/obo/FOODON_03411335;http://purl.obolibrary.org/obo/FOODON_03411497
+B000652|GARLIC PASTE|http://purl.obolibrary.org/obo/FOODON_03305217;http://purl.obolibrary.org/obo/NCBITaxon_4682
+B000653|CURRANT JELLY|http://purl.obolibrary.org/obo/FOODON_03305958
+B000654|RED CURRANT|http://purl.obolibrary.org/obo/NCBITaxon_175228
+B000655|MARMALADE|http://purl.obolibrary.org/obo/FOODON_03306377
+B000656|GARLIC BREAD|http://purl.obolibrary.org/obo/FOODON_03302379;http://purl.obolibrary.org/obo/NCBITaxon_4682
+B000657|SQUID|http://purl.obolibrary.org/obo/FOODON_03411205
+B000658|BEAR|http://purl.obolibrary.org/obo/FOODON_03412406
+B000659|WHITEFISH|http://purl.obolibrary.org/obo/FOODON_03312064
+B000660|SUGAR COATING|http://purl.obolibrary.org/obo/FOODON_03420108;http://purl.obolibrary.org/obo/FOODON_03316296
+B000661|SHOYU SAUCE|http://purl.obolibrary.org/obo/FOODON_03311146;http://purl.obolibrary.org/obo/FOODON_03304988
+B000662|SERRANO HAM|http://purl.obolibrary.org/obo/FOODON_00002545
+B000663|OKRA|http://purl.obolibrary.org/obo/NCBITaxon_455045
+B000664|FINES|http://purl.obolibrary.org/obo/FOODON_00000073
+B000665|MUSCOVADO|http://purl.obolibrary.org/obo/FOODON_00002539
+B000666|TAMARIND|http://purl.obolibrary.org/obo/NCBITaxon_58860
+B000667|PERCENT|http://purl.obolibrary.org/obo/UO_0000187
+B000668|HAVARTI CHEESE|http://purl.obolibrary.org/obo/FOODON_03303534
+B000669|SUGAR SUBSTITUTE|http://purl.obolibrary.org/obo/FOODON_03315170;http://purl.obolibrary.org/obo/FOODON_03420108
+B000670|RAISIN BREAD|http://purl.obolibrary.org/obo/FOODON_03301944
+B000671|BEEF CONSOMME|http://purl.obolibrary.org/obo/FOODON_03304190;http://purl.obolibrary.org/obo/FOODON_03305332
+B000672|BACON SIDE|http://purl.obolibrary.org/obo/FOODON_03315865
+B000673|FARINA|http://purl.obolibrary.org/obo/FOODON_03302621
+B000674|TURKEY HAM|http://purl.obolibrary.org/obo/FOODON_03310971;http://purl.obolibrary.org/obo/NCBITaxon_9103
+B000675|SWISS CHARD|http://purl.obolibrary.org/obo/NCBITaxon_3555;http://purl.obolibrary.org/obo/ancestro_0394
+B000676|CINNAMON ROLL|http://purl.obolibrary.org/obo/FOODON_03302318;http://purl.obolibrary.org/obo/NCBITaxon_128608
+B000677|FRUIT BREAD|http://purl.obolibrary.org/obo/PO_0009001;http://purl.obolibrary.org/obo/FOODON_03302334
+B000678|COGNAC|http://purl.obolibrary.org/obo/FOODON_03305330
+B000679|SWIFT|http://purl.obolibrary.org/obo/FOODON_03414523
+B000680|CHICKEN SOUP BASE|http://purl.obolibrary.org/obo/FOODON_03306286;http://purl.obolibrary.org/obo/FOODON_03305061;http://purl.obolibrary.org/obo/FOODON_03304200
+B000681|HONEY AND MAPLE SYRUP|http://purl.obolibrary.org/obo/UBERON_0036016;http://purl.obolibrary.org/obo/FOODON_03301848;http://purl.obolibrary.org/obo/FOODON_03307181
+B000682|FRUIT SAUCE|http://purl.obolibrary.org/obo/PO_0009001;http://purl.obolibrary.org/obo/FOODON_03311146;http://purl.obolibrary.org/obo/FOODON_03304038
+B000683|YEAR|http://purl.obolibrary.org/obo/UO_0000036
+B000684|SURIMI|http://purl.obolibrary.org/obo/FOODON_03308642
+B000685|BARLEY FLOUR|http://purl.obolibrary.org/obo/NCBITaxon_4513;http://purl.obolibrary.org/obo/FOODON_03309657;http://purl.obolibrary.org/obo/FOODON_03301116
+B000686|WHEAT GLUTEN|http://purl.obolibrary.org/obo/NCBITaxon_4565;http://purl.obolibrary.org/obo/FOODON_03301888;http://purl.obolibrary.org/obo/FOODON_03310809
+B000687|HADDOCK|http://purl.obolibrary.org/obo/NCBITaxon_8056;http://purl.obolibrary.org/obo/FOODON_03411441
+B000688|SOURDOUGH STARTER|http://purl.obolibrary.org/obo/FOODON_03304099
+B000689|GRAPEFRUIT SODA|http://purl.obolibrary.org/obo/FOODON_03302160;http://purl.obolibrary.org/obo/NCBITaxon_37656
+B000690|BELGIAN WAFFLE|http://purl.obolibrary.org/obo/FOODON_03315259;http://purl.obolibrary.org/obo/FOODON_03307233;http://purl.obolibrary.org/obo/ancestro_0349
+B000691|BELGIAN|http://purl.obolibrary.org/obo/hancestro_0349;http://purl.obolibrary.org/obo/ancestro_0349
+B000692|SORGHUM|http://purl.obolibrary.org/obo/NCBITaxon_4558;http://purl.obolibrary.org/obo/NCBITaxon_4557;http://purl.obolibrary.org/obo/FOODON_03309978
+B000693|AMARANTH|http://purl.obolibrary.org/obo/NCBITaxon_3567;http://purl.obolibrary.org/obo/CHEBI_34533
+B000694|CORNBREAD MIX|http://purl.obolibrary.org/obo/FOODON_03303198;http://purl.obolibrary.org/obo/FOODON_03302343
+B000695|SPOT|http://purl.obolibrary.org/obo/NCBITaxon_59837;http://purl.obolibrary.org/obo/FOODON_03413905
+B000696|CHICKEN GRAVY|http://purl.obolibrary.org/obo/FOODON_03411457;http://purl.obolibrary.org/obo/FOODON_03303038
+B000697|MONTH|http://purl.obolibrary.org/obo/UO_0000035
+B000698|VANILLA ICE CREAM|http://purl.obolibrary.org/obo/FOODON_03305800;http://purl.obolibrary.org/obo/NCBITaxon_51238;http://purl.obolibrary.org/obo/FOODON_03301926
+B000699|APRICOT PUREE|http://purl.obolibrary.org/obo/FOODON_03301290;http://purl.obolibrary.org/obo/FOODON_03301701
+B000700|NONDAIRY CREAMER|http://purl.obolibrary.org/obo/FOODON_03303905
+B000701|UNIT|http://purl.obolibrary.org/obo/UO_0000000
+B000702|PEACH PUREE|http://purl.obolibrary.org/obo/FOODON_03301291;http://purl.obolibrary.org/obo/NCBITaxon_3760
+B000703|SUCRALOSE|http://purl.obolibrary.org/obo/CHEBI_32159
+B000704|BARLEY|http://purl.obolibrary.org/obo/NCBITaxon_4513
+B000705|FRANKFURTER|http://purl.obolibrary.org/obo/FOODON_03302012
+B000706|DAIRY|http://purl.obolibrary.org/obo/ENVO_00003862
+B000707|GARBANZO BEAN FLOUR|http://purl.obolibrary.org/obo/NCBITaxon_3827;http://purl.obolibrary.org/obo/FOODON_03310392;http://purl.obolibrary.org/obo/FOODON_00002413
+B000708|BEAN FLOUR|http://purl.obolibrary.org/obo/FOODON_00002413;http://purl.obolibrary.org/obo/FOODON_03301116
+B000709|HYDRATE|http://purl.obolibrary.org/obo/CHEBI_35505
+B000710|MALTED MILK|http://purl.obolibrary.org/obo/UBERON_0001913;http://purl.obolibrary.org/obo/FOODON_03301818
+B000711|MUSHROOM SAUCE|http://purl.obolibrary.org/obo/FOODON_03311146;http://purl.obolibrary.org/obo/FOODON_03302590;http://purl.obolibrary.org/obo/FOODON_00001287
+B000712|CORNED BEEF HASH|http://purl.obolibrary.org/obo/FOODON_03311317;http://purl.obolibrary.org/obo/FOODON_03302098
+B000713|MILLET FLOUR|http://purl.obolibrary.org/obo/FOODON_03310137;http://purl.obolibrary.org/obo/FOODON_03309702;http://purl.obolibrary.org/obo/FOODON_03301116
+B000714|COUNTRY|http://purl.obolibrary.org/obo/ancestro_0003;http://purl.obolibrary.org/obo/hancestro_0003
+B000715|STILTON CHEESE|http://purl.obolibrary.org/obo/FOODON_03303870
+B000716|NONFAT DRY MILK|http://purl.obolibrary.org/obo/UBERON_0001913;http://purl.obolibrary.org/obo/FOODON_03301657
+B000717|MOREL|http://purl.obolibrary.org/obo/FOODON_03412032
+B000718|TOMATO CHUTNEY|http://purl.obolibrary.org/obo/FOODON_03302724;http://purl.obolibrary.org/obo/FOODON_03317544;http://purl.obolibrary.org/obo/NCBITaxon_4081
+B000719|ERYTHRITOL|http://purl.obolibrary.org/obo/CHEBI_17113
+B000720|RAMEN NOODLE|http://purl.obolibrary.org/obo/FOODON_03306959;http://purl.obolibrary.org/obo/FOODON_03306944
+B000721|KIWIFRUIT|http://purl.obolibrary.org/obo/FOODON_03303398
+B000722|HOLLANDAISE SAUCE MIX|http://purl.obolibrary.org/obo/FOODON_03301182;http://purl.obolibrary.org/obo/FOODON_03304115
+B000723|HONEY BUTTER|http://purl.obolibrary.org/obo/UBERON_0036016;http://purl.obolibrary.org/obo/FOODON_03310351;http://purl.obolibrary.org/obo/FOODON_03301010
+B000724|DRINK POWDER|http://purl.obolibrary.org/obo/FOODON_03315916
+B000725|CITRON|http://purl.obolibrary.org/obo/NCBITaxon_171251
+B000726|KING CRAB|http://purl.obolibrary.org/obo/FOODON_03411335;http://purl.obolibrary.org/obo/FOODON_03411498
+B000727|PANETTONE|http://purl.obolibrary.org/obo/FOODON_03302466
+B000728|CREAM OF POTATO SOUP|http://purl.obolibrary.org/obo/FOODON_03305133;http://purl.obolibrary.org/obo/NCBITaxon_4113
+B000729|FUDGE|http://purl.obolibrary.org/obo/FOODON_03301728
+B000730|ALE|http://purl.obolibrary.org/obo/FOODON_03302111
+B000731|MINERAL WATER|http://purl.obolibrary.org/obo/FOODON_03301328;http://purl.obolibrary.org/obo/CHEBI_46662;http://purl.obolibrary.org/obo/ENVO_00002006
+B000732|SCOTCH BONNET|http://purl.obolibrary.org/obo/FOODON_03414944;http://purl.obolibrary.org/obo/NCBITaxon_80379
+B000733|SOYBEAN OIL|http://purl.obolibrary.org/obo/FOODON_03302776;http://purl.obolibrary.org/obo/FOODON_03310387;http://purl.obolibrary.org/obo/NCBITaxon_3847
+B000734|SARDINE|http://purl.obolibrary.org/obo/FOODON_03411558;http://purl.obolibrary.org/obo/NCBITaxon_27697
+B000735|BOX|http://purl.obolibrary.org/obo/FOODON_03490213
+B000736|CANE SUGAR|http://purl.obolibrary.org/obo/FOODON_03301348;http://purl.obolibrary.org/obo/FOODON_03420108
+B000737|BLUEBERRY PRESERVES|http://purl.obolibrary.org/obo/FOODON_03310389
+B000738|CHAYOTE|http://purl.obolibrary.org/obo/NCBITaxon_184140
+B000739|DRAGON FRUIT|http://purl.obolibrary.org/obo/PO_0009001;http://purl.obolibrary.org/obo/NCBITaxon_176265
+B000740|SCONE|http://purl.obolibrary.org/obo/FOODON_00002465
+B000741|COTTON|http://purl.obolibrary.org/obo/NCBITaxon_3635
+B000742|NORMAL SIZE|http://purl.obolibrary.org/obo/PATO_0000117;http://purl.obolibrary.org/obo/PATO_0045050
+B000743|ROOIBOS|http://purl.obolibrary.org/obo/NCBITaxon_155124
+B000744|ENVELOPE|http://purl.obolibrary.org/obo/FOODON_03490199
+B000745|MANCHEGO CHEESE|http://purl.obolibrary.org/obo/FOODON_03310850
+B000746|CARROT CAKE|http://purl.obolibrary.org/obo/NCBITaxon_4039;http://purl.obolibrary.org/obo/FOODON_00002515
+B000747|SAPODILLA|http://purl.obolibrary.org/obo/NCBITaxon_3741
+B000748|WHEAT BREAD CRUMBS|http://purl.obolibrary.org/obo/FOODON_03301907
+B000749|TAMARI SAUCE|http://purl.obolibrary.org/obo/FOODON_03309556;http://purl.obolibrary.org/obo/FOODON_03311146
+B000750|CURRY SAUCE|http://purl.obolibrary.org/obo/FOODON_03306648;http://purl.obolibrary.org/obo/FOODON_03304046;http://purl.obolibrary.org/obo/FOODON_03311146
+B000751|WHEY|http://purl.obolibrary.org/obo/FOODON_03420244
+B000752|BRAN CEREAL|http://purl.obolibrary.org/obo/FOODON_03302906
+B000753|BEE POLLEN|http://purl.obolibrary.org/obo/FOODON_03420279;http://purl.obolibrary.org/obo/FOODON_03301424
+B000754|CHANTERELLE|http://purl.obolibrary.org/obo/FOODON_03411569
+B000755|PERIMETER|http://purl.obolibrary.org/obo/PATO_0001711
+B000756|CARROT JUICE|http://purl.obolibrary.org/obo/FOODON_03302213;http://purl.obolibrary.org/obo/NCBITaxon_4039
+B000757|CEYLON CINNAMON|http://purl.obolibrary.org/obo/NCBITaxon_128608
+B000758|BANANA PUREE|http://purl.obolibrary.org/obo/FOODON_03306999;http://purl.obolibrary.org/obo/NCBITaxon_89151
+B000759|JACKFRUIT|http://purl.obolibrary.org/obo/NCBITaxon_3489
+B000760|TOMATO PUREE|http://purl.obolibrary.org/obo/FOODON_03301457;http://purl.obolibrary.org/obo/NCBITaxon_4081
+B000761|BREAKFAST SAUSAGE|http://purl.obolibrary.org/obo/FOODON_03317292
+B000762|RASPBERRY JAM|http://purl.obolibrary.org/obo/FOODON_03305865;http://purl.obolibrary.org/obo/FOODON_03309973
+B000763|BUTTER BREAD|http://purl.obolibrary.org/obo/FOODON_03302332;http://purl.obolibrary.org/obo/FOODON_03310351
+B000764|STRAWBERRY YOGURT|http://purl.obolibrary.org/obo/NCBITaxon_3747;http://purl.obolibrary.org/obo/FOODON_03307441
+B000765|SARAN|http://purl.obolibrary.org/obo/FOODON_03500025
+B000766|PETAL|http://purl.obolibrary.org/obo/FOODON_03420303
+B000767|DOUGHNUT|http://purl.obolibrary.org/obo/FOODON_03301938
+B000768|CITRIC ACID|http://purl.obolibrary.org/obo/CHEBI_30769
+B000769|VEGETABLE SHORTENING|http://purl.obolibrary.org/obo/FOODON_03302604
+B000770|CHALLAH|http://purl.obolibrary.org/obo/FOODON_03302198
+B000771|MINCEMEAT|http://purl.obolibrary.org/obo/FOODON_03305810
+B000772|POUND CAKE|http://purl.obolibrary.org/obo/FOODON_03302767;http://purl.obolibrary.org/obo/UO_0010034
+B000773|LOLLIPOP|http://purl.obolibrary.org/obo/FOODON_03303639
+B000774|PEANUT BUTTER CUP|http://purl.obolibrary.org/obo/FOODON_03307672;http://purl.obolibrary.org/obo/FOODON_03306867
+B000775|BITTER CHOCOLATE|http://purl.obolibrary.org/obo/FOODON_03307240;http://purl.obolibrary.org/obo/FOODON_03303610
+B000776|ANGEL FOOD CAKE|http://purl.obolibrary.org/obo/CHEBI_33290;http://purl.obolibrary.org/obo/FOODON_03307734
+B000777|RATIO|http://purl.obolibrary.org/obo/UO_0000190
+B000778|RICE KRISPIES CEREAL|http://purl.obolibrary.org/obo/NCBITaxon_4530;http://purl.obolibrary.org/obo/FOODON_03309403
+B000779|LAYER CAKE|http://purl.obolibrary.org/obo/FOODON_03301527;http://purl.obolibrary.org/obo/ENVO_01000281
+B000780|CHOCOLATE CANDY|http://purl.obolibrary.org/obo/FOODON_03400288;http://purl.obolibrary.org/obo/FOODON_03307240;http://purl.obolibrary.org/obo/FOODON_03301007;http://purl.obolibrary.org/obo/FOODON_03301051
+B000781|CANDY BAR|http://purl.obolibrary.org/obo/FOODON_03301051;http://purl.obolibrary.org/obo/FOODON_03306423
+B000782|CHESTNUT PUREE|http://purl.obolibrary.org/obo/FOODON_03302968
+B000783|LEMON JELLY|http://purl.obolibrary.org/obo/FOODON_03301441;http://purl.obolibrary.org/obo/FOODON_03305882
+B000784|MACAROON|http://purl.obolibrary.org/obo/FOODON_03305977
+B000785|SHARK|http://purl.obolibrary.org/obo/FOODON_03411342
+B000786|STRAWBERRY ICE CREAM|http://purl.obolibrary.org/obo/FOODON_03301926;http://purl.obolibrary.org/obo/NCBITaxon_3747;http://purl.obolibrary.org/obo/FOODON_03305854
+B000787|STRAWBERRY PRESERVES|http://purl.obolibrary.org/obo/FOODON_03305202;http://purl.obolibrary.org/obo/NCBITaxon_3747
+B000788|CANDIED CHERRY|http://purl.obolibrary.org/obo/FOODON_03302957;http://purl.obolibrary.org/obo/FOODON_03301240
+B000789|FIN|http://purl.obolibrary.org/obo/UBERON_0008897
+B000790|NOUGAT|http://purl.obolibrary.org/obo/FOODON_03316438
+B000791|FLUID OUNCE|http://purl.obolibrary.org/obo/UO_0010026;http://purl.obolibrary.org/obo/UO_0010033
+B000792|LEMON CAKE|http://purl.obolibrary.org/obo/FOODON_03311590;http://purl.obolibrary.org/obo/FOODON_03301441
+B000793|CORN FLOUR|http://purl.obolibrary.org/obo/FOODON_03301116;http://purl.obolibrary.org/obo/NCBITaxon_381124;http://purl.obolibrary.org/obo/FOODON_03302500
+B000794|TURKISH|http://purl.obolibrary.org/obo/hancestro_0451;http://purl.obolibrary.org/obo/ancestro_0451
+B000795|BEAN PASTE|http://purl.obolibrary.org/obo/FOODON_03315362
+B000796|VANILLA WAFER|http://purl.obolibrary.org/obo/NCBITaxon_51238;http://purl.obolibrary.org/obo/FOODON_03307348;http://purl.obolibrary.org/obo/FOODON_03316443
+B000797|TAP WATER|http://purl.obolibrary.org/obo/ENVO_00003096;http://purl.obolibrary.org/obo/FOODON_03307286;http://purl.obolibrary.org/obo/ENVO_00002006
+B000798|CASSAVA FLOUR|http://purl.obolibrary.org/obo/FOODON_03310125;http://purl.obolibrary.org/obo/FOODON_03301116
+B000799|ALCOHOL|http://purl.obolibrary.org/obo/CHEBI_30879
+B000800|TOASTER PASTRY|http://purl.obolibrary.org/obo/FOODON_03307479;http://purl.obolibrary.org/obo/FOODON_03315272
+B000801|CANDY CANE|http://purl.obolibrary.org/obo/FOODON_03301051;http://purl.obolibrary.org/obo/FOODON_03303749
+B000802|MINTS|http://purl.obolibrary.org/obo/NCBITaxon_21819
+B000803|RICE PUDDING|http://purl.obolibrary.org/obo/FOODON_03305135;http://purl.obolibrary.org/obo/NCBITaxon_4530;http://purl.obolibrary.org/obo/FOODON_03301660
+B000804|BLOOD|http://purl.obolibrary.org/obo/FOODON_03317130;http://purl.obolibrary.org/obo/UBERON_0000178
+B000805|CHOCOLATE ICE CREAM|http://purl.obolibrary.org/obo/FOODON_03307240;http://purl.obolibrary.org/obo/FOODON_03305848;http://purl.obolibrary.org/obo/FOODON_03301926
+B000806|BUDDHA'S HAND|http://purl.obolibrary.org/obo/NCBITaxon_171251
+B000807|BLACK TEA|http://purl.obolibrary.org/obo/NCBITaxon_4442
+B000808|SOUR CREAM TOPPING|http://purl.obolibrary.org/obo/FOODON_03307882;http://purl.obolibrary.org/obo/FOODON_03302515
+B000809|FRUIT SPREAD|http://purl.obolibrary.org/obo/PO_0009001;http://purl.obolibrary.org/obo/FOODON_03302441
+B000810|TEMPURA BATTER|http://purl.obolibrary.org/obo/FOODON_03304344;http://purl.obolibrary.org/obo/FOODON_03301304
+B000811|FRUCTOSE|http://purl.obolibrary.org/obo/CHEBI_28757;http://purl.obolibrary.org/obo/FOODON_03316754
+B000812|CRYSTAL|http://purl.obolibrary.org/obo/FOODON_03430143
+B000813|CANE SYRUP|http://purl.obolibrary.org/obo/FOODON_03303225;http://purl.obolibrary.org/obo/FOODON_03301847
+B000814|DURIAN|http://purl.obolibrary.org/obo/NCBITaxon_66656
+B000815|HUSK|http://purl.obolibrary.org/obo/FOODON_03420181
+B000816|CHOCOLATE ICING|http://purl.obolibrary.org/obo/FOODON_03307240;http://purl.obolibrary.org/obo/FOODON_03302823
+B000817|HOUSE|http://purl.obolibrary.org/obo/ENVO_01000417
+B000818|CITRUS JUICE|http://purl.obolibrary.org/obo/FOODON_03305742;http://purl.obolibrary.org/obo/NCBITaxon_2706
+B000819|CELLOPHANE|http://purl.obolibrary.org/obo/FOODON_03500031
+B000820|GUAVA|http://purl.obolibrary.org/obo/NCBITaxon_120290
+B000821|WAFER|http://purl.obolibrary.org/obo/FOODON_03316443
+B000822|ZWIEBACK|http://purl.obolibrary.org/obo/FOODON_03302549
+B000823|BANANA CREAM PIE|http://purl.obolibrary.org/obo/FOODON_03307352;http://purl.obolibrary.org/obo/NCBITaxon_89151;http://purl.obolibrary.org/obo/FOODON_03306778
+B000824|PIE CRUST MIX|http://purl.obolibrary.org/obo/FOODON_03310705
+B000825|CHOCOLATE FILLING|http://purl.obolibrary.org/obo/FOODON_03307240;http://purl.obolibrary.org/obo/FOODON_03306719
+B000826|FRUITCAKE|http://purl.obolibrary.org/obo/FOODON_03301635
+B000827|CHEESECAKE BATTER|http://purl.obolibrary.org/obo/FOODON_03301304;http://purl.obolibrary.org/obo/FOODON_03301729;http://purl.obolibrary.org/obo/FOODON_03311873
+B000828|FRUIT FILLING|http://purl.obolibrary.org/obo/PO_0009001;http://purl.obolibrary.org/obo/FOODON_03301540
+B000829|GRAPE JAM|http://purl.obolibrary.org/obo/FOODON_03302176;http://purl.obolibrary.org/obo/FOODON_03309973
+B000830|FROGS|http://purl.obolibrary.org/obo/NCBITaxon_8342
+B000831|BRAZIL|http://purl.obolibrary.org/obo/GAZ_00002828
+B000832|RED GRAPEFRUIT|http://purl.obolibrary.org/obo/FOODON_03305561;http://purl.obolibrary.org/obo/NCBITaxon_37656
+B000833|GELATIN SALAD|http://purl.obolibrary.org/obo/FOODON_03307885;http://purl.obolibrary.org/obo/FOODON_03316042;http://purl.obolibrary.org/obo/CHEBI_5291
+B000834|CEREAL FLAKES|http://purl.obolibrary.org/obo/FOODON_03315540
+B000835|HEIGHT|http://purl.obolibrary.org/obo/PATO_0000119
+B000836|FLAN|http://purl.obolibrary.org/obo/FOODON_03307178
+B000837|CASHEW|http://purl.obolibrary.org/obo/NCBITaxon_171929
+B000838|CONSTRUCTION|http://purl.obolibrary.org/obo/ENVO_00000070
+B000839|EAR|http://purl.obolibrary.org/obo/UBERON_0001690
+B000840|LICORICE CANDY|http://purl.obolibrary.org/obo/FOODON_03301663;http://purl.obolibrary.org/obo/FOODON_03301051
+B000841|ICE-CREAM|http://purl.obolibrary.org/obo/FOODON_00001045;http://purl.obolibrary.org/obo/FOODON_03301926
+B000842|CORN SNACK|http://purl.obolibrary.org/obo/FOODON_00001764;http://purl.obolibrary.org/obo/NCBITaxon_381124
+B000843|MARZIPAN|http://purl.obolibrary.org/obo/FOODON_03315555
+B000844|LITER|http://purl.obolibrary.org/obo/UO_0000099
+B000845|ICE CREAM SANDWICH|http://purl.obolibrary.org/obo/FOODON_03305472;http://purl.obolibrary.org/obo/FOODON_03301906;http://purl.obolibrary.org/obo/FOODON_03301926
+B000846|FROZEN DESSERT|http://purl.obolibrary.org/obo/FOODON_03302800;http://purl.obolibrary.org/obo/PATO_0001985
+B000847|SOFT DRINK|http://purl.obolibrary.org/obo/FOODON_00002253;http://purl.obolibrary.org/obo/FOODON_03310815;http://purl.obolibrary.org/obo/PATO_0000387
+B000848|QUESADILLA|http://purl.obolibrary.org/obo/FOODON_00002538
+B000849|TRIPLE SEC|http://purl.obolibrary.org/obo/FOODON_00002551
+B000850|SPEARMINT|http://purl.obolibrary.org/obo/NCBITaxon_29719
+B000851|JELLY BEAN|http://purl.obolibrary.org/obo/FOODON_03302883
+B000852|CHOCOLATE COOKIE|http://purl.obolibrary.org/obo/FOODON_03307240;http://purl.obolibrary.org/obo/FOODON_03301585;http://purl.obolibrary.org/obo/FOODON_03302882
+B000853|PECAN PIE FILLING|http://purl.obolibrary.org/obo/FOODON_03306766;http://purl.obolibrary.org/obo/FOODON_03315125;http://purl.obolibrary.org/obo/FOODON_03306781
+B000854|PECAN PIE|http://purl.obolibrary.org/obo/FOODON_03306781;http://purl.obolibrary.org/obo/NCBITaxon_32201
+B000855|CORN HUSK|http://purl.obolibrary.org/obo/FOODON_03301388;http://purl.obolibrary.org/obo/NCBITaxon_381124;http://purl.obolibrary.org/obo/FOODON_03420181
+B000856|MAN|http://purl.obolibrary.org/obo/NCBITaxon_9606;http://purl.obolibrary.org/obo/FOODON_03510251
+B000857|VEGETABLE OIL SPREAD|http://purl.obolibrary.org/obo/FOODON_03305263;http://purl.obolibrary.org/obo/FOODON_03302874
+B000858|BATTER MIX|http://purl.obolibrary.org/obo/FOODON_03315887;http://purl.obolibrary.org/obo/FOODON_03301304
+B000859|BEARS|http://purl.obolibrary.org/obo/NCBITaxon_9632
+B000860|CHOCOLATE CHIP COOKIE|http://purl.obolibrary.org/obo/FOODON_03301585;http://purl.obolibrary.org/obo/FOODON_03304096;http://purl.obolibrary.org/obo/FOODON_03302850
+B000861|AGAR|http://purl.obolibrary.org/obo/CHEBI_2509
+B000862|SWEET BEAN PASTE|http://purl.obolibrary.org/obo/FOODON_00002387;http://purl.obolibrary.org/obo/FOODON_03315362;http://purl.obolibrary.org/obo/FOODON_00002388
+B000863|BLACK CHERRY|http://purl.obolibrary.org/obo/NCBITaxon_23207
+B000864|CHERRY JAM|http://purl.obolibrary.org/obo/FOODON_03309973;http://purl.obolibrary.org/obo/FOODON_03301252;http://purl.obolibrary.org/obo/FOODON_03301240
+B000865|PALM SUGAR|http://purl.obolibrary.org/obo/FOODON_03304565;http://purl.obolibrary.org/obo/FOODON_03420108
+B000866|MULBERRIES|http://purl.obolibrary.org/obo/NCBITaxon_3497
+B000867|CHERRY LIQUEUR|http://purl.obolibrary.org/obo/FOODON_03305860;http://purl.obolibrary.org/obo/FOODON_03301008;http://purl.obolibrary.org/obo/FOODON_03301240
+B000868|CHURRO|http://purl.obolibrary.org/obo/FOODON_03312034
+B000869|CLEMENTINE|http://purl.obolibrary.org/obo/FOODON_03303079
+B000870|CHOCOLATE-COVERED PEANUT|http://purl.obolibrary.org/obo/FOODON_03307240;http://purl.obolibrary.org/obo/FOODON_03309829;http://purl.obolibrary.org/obo/NCBITaxon_3818
+B000871|PUMPKINS|http://purl.obolibrary.org/obo/NCBITaxon_3660
+B000872|WHITE CHOCOLATE COATING|http://purl.obolibrary.org/obo/FOODON_03301329;http://purl.obolibrary.org/obo/FOODON_03302909
+B000873|BARLEY MALT|http://purl.obolibrary.org/obo/NCBITaxon_4513;http://purl.obolibrary.org/obo/FOODON_03301018;http://purl.obolibrary.org/obo/FOODON_03306040
+B000874|COTTON CANDY|http://purl.obolibrary.org/obo/FOODON_03301900;http://purl.obolibrary.org/obo/FOODON_03301051;http://purl.obolibrary.org/obo/NCBITaxon_3635
+B000875|PEAR JUICE|http://purl.obolibrary.org/obo/FOODON_03301294;http://purl.obolibrary.org/obo/FOODON_03301724;http://purl.obolibrary.org/obo/FOODON_00002102
+B000876|GERMAN|http://purl.obolibrary.org/obo/hancestro_0364;http://purl.obolibrary.org/obo/ancestro_0364
+B000877|CAROB POWDER|http://purl.obolibrary.org/obo/FOODON_03302170
+B000878|ORANGE DRINK|http://purl.obolibrary.org/obo/FOODON_03309832;http://purl.obolibrary.org/obo/FOODON_03301100
+B000879|GRUNT|http://purl.obolibrary.org/obo/FOODON_03411813
+B000880|CAPPUCCINO|http://purl.obolibrary.org/obo/FOODON_03303096
+B000881|LEMON BUTTER|http://purl.obolibrary.org/obo/FOODON_03302436;http://purl.obolibrary.org/obo/FOODON_03310351;http://purl.obolibrary.org/obo/FOODON_03301441
+B000882|PUFFED RICE CEREAL|http://purl.obolibrary.org/obo/FOODON_03302841;http://purl.obolibrary.org/obo/FOODON_03310609
+B000883|MINT JELLY|http://purl.obolibrary.org/obo/FOODON_03305875
+B000884|FOOT|http://purl.obolibrary.org/obo/UO_0010013
+B000885|CHERRY PRESERVES|http://purl.obolibrary.org/obo/FOODON_03301240;http://purl.obolibrary.org/obo/FOODON_03306995
+B000886|FRUIT SYRUP|http://purl.obolibrary.org/obo/FOODON_03304333;http://purl.obolibrary.org/obo/FOODON_03303225;http://purl.obolibrary.org/obo/PO_0009001
+B000887|CITRUS PEEL|http://purl.obolibrary.org/obo/FOODON_03303068;http://purl.obolibrary.org/obo/NCBITaxon_2706
+B000888|ICE CREAM MIX|http://purl.obolibrary.org/obo/FOODON_03305667;http://purl.obolibrary.org/obo/FOODON_03301926
+B000889|TREACLE|http://purl.obolibrary.org/obo/FOODON_03307582
+B000890|LEMON PIE FILLING|http://purl.obolibrary.org/obo/FOODON_03306679;http://purl.obolibrary.org/obo/FOODON_03306766;http://purl.obolibrary.org/obo/FOODON_03311477
+B000891|LEMON PIE|http://purl.obolibrary.org/obo/FOODON_03306679;http://purl.obolibrary.org/obo/FOODON_03301441
+B000892|GUAR GUM|http://purl.obolibrary.org/obo/NCBITaxon_3832;http://purl.obolibrary.org/obo/FOODON_03413114
+B000893|FRUIT PUREE|http://purl.obolibrary.org/obo/PO_0009001;http://purl.obolibrary.org/obo/FOODON_03310649
+B000894|TAMALE|http://purl.obolibrary.org/obo/FOODON_03304758
+B000895|PASSION FRUIT PULP|http://purl.obolibrary.org/obo/FOODON_03411634;http://purl.obolibrary.org/obo/FOODON_03301109;http://purl.obolibrary.org/obo/FOODON_03307022
+B000896|BUTTER CREAM|http://purl.obolibrary.org/obo/FOODON_03310351;http://purl.obolibrary.org/obo/FOODON_03302542
+B000897|SITE|http://purl.obolibrary.org/obo/BFO_0000029
+B000898|BLIND BAKING|http://purl.obolibrary.org/obo/FOODON_03450046
+B000899|KIDNEY BEAN|http://purl.obolibrary.org/obo/UBERON_0002113;http://purl.obolibrary.org/obo/NCBITaxon_3885
+B000900|CHOCOLATE CUSTARD|http://purl.obolibrary.org/obo/FOODON_03307240;http://purl.obolibrary.org/obo/FOODON_03302946;http://purl.obolibrary.org/obo/FOODON_03303341
+B000901|COCONUT CUSTARD|http://purl.obolibrary.org/obo/FOODON_03302946;http://purl.obolibrary.org/obo/FOODON_03309736
+B000902|PECAN MEAL|http://purl.obolibrary.org/obo/FOODON_03311218;http://purl.obolibrary.org/obo/NCBITaxon_32201
+B000903|BLUEBERRY JAM|http://purl.obolibrary.org/obo/FOODON_03301125;http://purl.obolibrary.org/obo/FOODON_03309973
+B000904|DIGESTIVE BISCUIT|http://purl.obolibrary.org/obo/FOODON_03309518
+B000905|LECITHIN|http://purl.obolibrary.org/obo/CHEBI_61995
+B000906|POMELO|http://purl.obolibrary.org/obo/NCBITaxon_37334
+B000907|LYCHEE|http://purl.obolibrary.org/obo/NCBITaxon_151069
+B000908|KINAKO|http://purl.obolibrary.org/obo/FOODON_03315449
+B000909|MANGO NECTAR|http://purl.obolibrary.org/obo/FOODON_03304361;http://purl.obolibrary.org/obo/NCBITaxon_29780
+B000910|LEMON SHERBET|http://purl.obolibrary.org/obo/FOODON_03301441;http://purl.obolibrary.org/obo/FOODON_03302854;http://purl.obolibrary.org/obo/FOODON_03305429
+B000911|BUTTER COOKIE|http://purl.obolibrary.org/obo/FOODON_03301585;http://purl.obolibrary.org/obo/FOODON_03310351;http://purl.obolibrary.org/obo/FOODON_03303155
+B000912|PUFFED WHEAT CEREAL|http://purl.obolibrary.org/obo/FOODON_03312031;http://purl.obolibrary.org/obo/FOODON_03302842
+B000913|CREAM SWEETENED|http://purl.obolibrary.org/obo/FOODON_03310474
+B000914|BITTER MELON|http://purl.obolibrary.org/obo/NCBITaxon_3673
+B000915|MANDARIN ORANGE JUICE|http://purl.obolibrary.org/obo/NCBITaxon_85571;http://purl.obolibrary.org/obo/FOODON_00002019
+B000916|LIME MARMALADE|http://purl.obolibrary.org/obo/FOODON_03306377;http://purl.obolibrary.org/obo/FOODON_03305086;http://purl.obolibrary.org/obo/FOODON_03306389
+B000917|STEEPING|http://purl.obolibrary.org/obo/FOODON_03450036
+B000918|BLUEBERRY JUICE|http://purl.obolibrary.org/obo/FOODON_00002512
+B000919|RED BEAN PASTE|http://purl.obolibrary.org/obo/FOODON_03311285;http://purl.obolibrary.org/obo/FOODON_03315362
+B000920|TANGERINE JUICE|http://purl.obolibrary.org/obo/FOODON_03315108;http://purl.obolibrary.org/obo/FOODON_03305751
+B000921|BUBBLE GUM|http://purl.obolibrary.org/obo/FOODON_03301726
+B000922|BANANA CHIP|http://purl.obolibrary.org/obo/NCBITaxon_89151;http://purl.obolibrary.org/obo/FOODON_03307587
+B000923|SUGAR COOKIE|http://purl.obolibrary.org/obo/FOODON_03301585;http://purl.obolibrary.org/obo/FOODON_03303165;http://purl.obolibrary.org/obo/FOODON_03420108
+B000924|CAKE ROLL|http://purl.obolibrary.org/obo/FOODON_03304529
+B000925|DEEP-FRYING|http://purl.obolibrary.org/obo/FOODON_03450029
+B000926|DANDELION|http://purl.obolibrary.org/obo/NCBITaxon_50225
+B000927|GELATIN DESSERT|http://purl.obolibrary.org/obo/FOODON_03305342;http://purl.obolibrary.org/obo/CHEBI_5291
+B000928|WHITE GRAPE JUICE|http://purl.obolibrary.org/obo/FOODON_03309404;http://purl.obolibrary.org/obo/FOODON_00001926
+B000929|NUT BUTTER|http://purl.obolibrary.org/obo/FOODON_03310351;http://purl.obolibrary.org/obo/FOODON_03302438
+B000930|APPLICATION|http://purl.obolibrary.org/obo/CHEBI_33232
+B000931|DANISH|http://purl.obolibrary.org/obo/hancestro_0359;http://purl.obolibrary.org/obo/ancestro_0359
+B000932|FIELD|http://purl.obolibrary.org/obo/ENVO_01000352
+B000933|FRUIT CAKE|http://purl.obolibrary.org/obo/FOODON_03301635;http://purl.obolibrary.org/obo/PO_0009001
+B000934|GARDEN|http://purl.obolibrary.org/obo/ENVO_00000011
+B000935|HONEY BUN|http://purl.obolibrary.org/obo/UBERON_0036016;http://purl.obolibrary.org/obo/FOODON_03302314
+B000936|BUCKEYES|http://purl.obolibrary.org/obo/NCBITaxon_43363
+B000937|PEPPERMINT PATTY|http://purl.obolibrary.org/obo/FOODON_03304824;http://purl.obolibrary.org/obo/NCBITaxon_34256
+B000938|SOLID LAYER|http://purl.obolibrary.org/obo/ENVO_01000281;http://purl.obolibrary.org/obo/ENVO_01001275
+B000939|GELATO|http://purl.obolibrary.org/obo/FOODON_03305076
+B000940|FRUIT TOPPING|http://purl.obolibrary.org/obo/PO_0009001;http://purl.obolibrary.org/obo/FOODON_03315053
+B000941|PIE FILLING MIX|http://purl.obolibrary.org/obo/FOODON_03306766;http://purl.obolibrary.org/obo/FOODON_03315696;http://purl.obolibrary.org/obo/FOODON_03315705
+B000942|CREME DE MENTHE LIQUEUR|http://purl.obolibrary.org/obo/FOODON_03301606;http://purl.obolibrary.org/obo/FOODON_03301008
+B000943|CHAR|http://purl.obolibrary.org/obo/FOODON_03414051
+B000944|FRUIT PIE FILLING|http://purl.obolibrary.org/obo/FOODON_03307431;http://purl.obolibrary.org/obo/FOODON_03306766;http://purl.obolibrary.org/obo/FOODON_03306763
+B000945|FRUIT PIE|http://purl.obolibrary.org/obo/FOODON_03307431;http://purl.obolibrary.org/obo/PO_0009001
+B000946|CASTOR SUGAR|http://purl.obolibrary.org/obo/NCBITaxon_10184;http://purl.obolibrary.org/obo/FOODON_03420108;http://purl.obolibrary.org/obo/FOODON_03307549
+B000947|QUALITY|http://purl.obolibrary.org/obo/BFO_0000019;http://purl.obolibrary.org/obo/PATO_0000001
+B000948|EGG BUTTER|http://purl.obolibrary.org/obo/FOODON_03310351;http://purl.obolibrary.org/obo/FOODON_03302447
+B000949|LIGHT WHIPPING CREAM|http://purl.obolibrary.org/obo/FOODON_03301796;http://purl.obolibrary.org/obo/FOODON_03420154
+B000950|ASPARTAME|http://purl.obolibrary.org/obo/CHEBI_2877
+B000951|COCONUT PRESERVES|http://purl.obolibrary.org/obo/FOODON_03303952
+B000952|COFFEE CAKE|http://purl.obolibrary.org/obo/FOODON_03302898
+B000953|PEANUT BRITTLE|http://purl.obolibrary.org/obo/NCBITaxon_3818;http://purl.obolibrary.org/obo/FOODON_03302000
+B000954|MAPLE BUTTER|http://purl.obolibrary.org/obo/FOODON_03302509;http://purl.obolibrary.org/obo/FOODON_03310351
+B000955|MALTED MILK BALL|http://purl.obolibrary.org/obo/FOODON_03304394;http://purl.obolibrary.org/obo/FOODON_03301818
+B000956|SUGAR CUBE|http://purl.obolibrary.org/obo/FOODON_03420108;http://purl.obolibrary.org/obo/FOODON_03316445
+B000957|INNER BAG|http://purl.obolibrary.org/obo/FOODON_03490420
+B000958|FORTUNE COOKIE|http://purl.obolibrary.org/obo/FOODON_03301585;http://purl.obolibrary.org/obo/FOODON_03303150
+B000959|PLANT|http://purl.obolibrary.org/obo/FOODON_03411347
+B000960|CUSTARD MIX|http://purl.obolibrary.org/obo/FOODON_03302946;http://purl.obolibrary.org/obo/FOODON_03315400
+B000961|PEANUT CANDY|http://purl.obolibrary.org/obo/FOODON_03301051;http://purl.obolibrary.org/obo/NCBITaxon_3818;http://purl.obolibrary.org/obo/FOODON_03310296
+B000962|WRACKS|http://purl.obolibrary.org/obo/FOODON_03414510
+B000963|CREAM PUFF|http://purl.obolibrary.org/obo/FOODON_03311177
+B000964|SWEET BASIL|http://purl.obolibrary.org/obo/NCBITaxon_39350
+B000965|SHARKS|http://purl.obolibrary.org/obo/NCBITaxon_119203
+B000966|BREAKFAST CEREAL|http://purl.obolibrary.org/obo/FOODON_03311075
+B000967|SODA CRACKER|http://purl.obolibrary.org/obo/FOODON_03302571
+B000968|BLACK WALNUT|http://purl.obolibrary.org/obo/FOODON_03316466;http://purl.obolibrary.org/obo/NCBITaxon_16719
+B000969|CAKE MIX (DRY)|http://purl.obolibrary.org/obo/FOODON_03302535;http://purl.obolibrary.org/obo/FOODON_03317068
+B000970|OATMEAL COOKIE|http://purl.obolibrary.org/obo/FOODON_03301585;http://purl.obolibrary.org/obo/FOODON_03305157
+B000971|HAMBURGER BUN|http://purl.obolibrary.org/obo/FOODON_03302319
+B000972|WHITE ROLL|http://purl.obolibrary.org/obo/FOODON_03303181
+B000973|ORANGE BEVERAGE|http://purl.obolibrary.org/obo/FOODON_03301977;http://purl.obolibrary.org/obo/FOODON_03309832;http://purl.obolibrary.org/obo/FOODON_03302385
+B000974|ORANGE DRINK MIX|http://purl.obolibrary.org/obo/FOODON_03305778;http://purl.obolibrary.org/obo/FOODON_03301100
+B000975|CAT|http://purl.obolibrary.org/obo/NCBITaxon_9685
+B000976|GRAPEFRUIT PEEL|http://purl.obolibrary.org/obo/NCBITaxon_37656;http://purl.obolibrary.org/obo/FOODON_03305560
+B000977|INSTANT TEA POWDER|http://purl.obolibrary.org/obo/FOODON_03317489
+B000978|PROPANE|http://purl.obolibrary.org/obo/CHEBI_32879
+B000979|GRENADINE SYRUP|http://purl.obolibrary.org/obo/FOODON_03303225;http://purl.obolibrary.org/obo/FOODON_03305436
+B000980|REINDEER|http://purl.obolibrary.org/obo/FOODON_03411509;http://purl.obolibrary.org/obo/NCBITaxon_9870
+B000981|CANDIED CITRON|http://purl.obolibrary.org/obo/FOODON_03301790;http://purl.obolibrary.org/obo/NCBITaxon_171251
+B000982|PINEAPPLE JAM|http://purl.obolibrary.org/obo/FOODON_03305242;http://purl.obolibrary.org/obo/NCBITaxon_4615;http://purl.obolibrary.org/obo/FOODON_03309973
+B000983|SCOTCH WHISKEY|http://purl.obolibrary.org/obo/FOODON_03302775;http://purl.obolibrary.org/obo/FOODON_03307232
+B000984|SALAD OIL|http://purl.obolibrary.org/obo/FOODON_03306562;http://purl.obolibrary.org/obo/FOODON_03310387;http://purl.obolibrary.org/obo/FOODON_03316042
+B000985|TURTLE|http://purl.obolibrary.org/obo/FOODON_03411242
+B000986|ASCORBIC ACID|http://purl.obolibrary.org/obo/CHEBI_22652
+B000987|PETIT FOUR|http://purl.obolibrary.org/obo/FOODON_03301937
+B000988|CHOCOLATE FUDGE TOPPING|http://purl.obolibrary.org/obo/FOODON_03307240;http://purl.obolibrary.org/obo/FOODON_03301728;http://purl.obolibrary.org/obo/FOODON_03303604
+B000989|TONGUE|http://purl.obolibrary.org/obo/UBERON_0001723
+B000990|BRANDY SAUCE|http://purl.obolibrary.org/obo/FOODON_03304011;http://purl.obolibrary.org/obo/FOODON_03301632;http://purl.obolibrary.org/obo/FOODON_03311146
+B000991|AMMONIUM CARBONATE|http://purl.obolibrary.org/obo/FOODON_03412997
+B000992|LEMONADE DRINK|http://purl.obolibrary.org/obo/FOODON_03301630;http://purl.obolibrary.org/obo/FOODON_03305154
+B000993|SNAIL SHELL|http://purl.obolibrary.org/obo/FOODON_03308706;http://purl.obolibrary.org/obo/FOODON_03412114
+B000994|SNAIL|http://purl.obolibrary.org/obo/FOODON_03412114
+B000995|PEACH PIE FILLING|http://purl.obolibrary.org/obo/FOODON_03306673;http://purl.obolibrary.org/obo/FOODON_03306766;http://purl.obolibrary.org/obo/FOODON_03306759
+B000996|PEACH PIE|http://purl.obolibrary.org/obo/NCBITaxon_3760;http://purl.obolibrary.org/obo/FOODON_03306759
+B000997|BIRDS|http://purl.obolibrary.org/obo/NCBITaxon_8782
+B000998|COFFEE SYRUP|http://purl.obolibrary.org/obo/FOODON_03303225;http://purl.obolibrary.org/obo/FOODON_03304323
+B000999|LEMONADE-FLAVORED DRINK|http://purl.obolibrary.org/obo/FOODON_03306243;http://purl.obolibrary.org/obo/FOODON_03301630
+B001000|CRABAPPLE JELLY|http://purl.obolibrary.org/obo/FOODON_03305888
+B001001|CHOCOLATE ROLL|http://purl.obolibrary.org/obo/FOODON_03307240;http://purl.obolibrary.org/obo/FOODON_03311854
+B001002|HOT TUB|http://purl.obolibrary.org/obo/ENVO_01000938
+B001003|CANADA|http://purl.obolibrary.org/obo/GAZ_00002560
+B001004|COOKING WINE|http://purl.obolibrary.org/obo/FOODON_03307299
+B001005|FRUIT SALAD|http://purl.obolibrary.org/obo/FOODON_03305148;http://purl.obolibrary.org/obo/PO_0009001;http://purl.obolibrary.org/obo/FOODON_03316042
+B001006|BLACK CURRANT SYRUP|http://purl.obolibrary.org/obo/FOODON_03303225;http://purl.obolibrary.org/obo/FOODON_03307716
+B001007|MINT CANDY|http://purl.obolibrary.org/obo/FOODON_03301051;http://purl.obolibrary.org/obo/FOODON_03303760
+B001008|WINE SAUCE|http://purl.obolibrary.org/obo/FOODON_03311146;http://purl.obolibrary.org/obo/FOODON_03307297
+B001009|TURTLES|http://purl.obolibrary.org/obo/NCBITaxon_8459
+B001010|SHOP|http://purl.obolibrary.org/obo/ENVO_00002221
+B001011|APPLE COOKIE|http://purl.obolibrary.org/obo/FOODON_03301922;http://purl.obolibrary.org/obo/FOODON_03301585;http://purl.obolibrary.org/obo/FOODON_03301710
+B001012|METAL CONTAINER|http://purl.obolibrary.org/obo/FOODON_03500041;http://purl.obolibrary.org/obo/FOODON_03490151
+B001013|FAT SUBSTITUTE|http://purl.obolibrary.org/obo/FOODON_03311714
+B001014|BOUILLON POWDER|http://purl.obolibrary.org/obo/FOODON_03301468;http://purl.obolibrary.org/obo/FOODON_03317090
+B001015|PEAR NECTAR|http://purl.obolibrary.org/obo/FOODON_03301724;http://purl.obolibrary.org/obo/FOODON_03301289
+B001016|ROSE WINE|http://purl.obolibrary.org/obo/FOODON_03310734
+B001017|BOTTLE OR JAR|http://purl.obolibrary.org/obo/FOODON_03490203;http://purl.obolibrary.org/obo/FOODON_03490214;http://purl.obolibrary.org/obo/FOODON_03490215
+B001018|CORK|http://purl.obolibrary.org/obo/FOODON_03500046
+B001019|CRANBERRY CONCENTRATE|http://purl.obolibrary.org/obo/FOODON_03301106
+B001020|MALT LIQUOR|http://purl.obolibrary.org/obo/FOODON_03315625;http://purl.obolibrary.org/obo/FOODON_03306040
+B001021|CRANBERRY JUICE CONCENTRATE|http://purl.obolibrary.org/obo/FOODON_03305748;http://purl.obolibrary.org/obo/FOODON_03301671
+B001022|CRANBERRY JUICE COCKTAIL|http://purl.obolibrary.org/obo/FOODON_03301533;http://purl.obolibrary.org/obo/FOODON_03301671
+B001023|HIBISCUS|http://purl.obolibrary.org/obo/NCBITaxon_47605
+B001024|RED RASPBERRY|http://purl.obolibrary.org/obo/NCBITaxon_32247
+B001025|SPARKLING GRAPE JUICE|http://purl.obolibrary.org/obo/FOODON_00001926;http://purl.obolibrary.org/obo/FOODON_03304276
+B001026|COCONUT SYRUP|http://purl.obolibrary.org/obo/FOODON_03307523;http://purl.obolibrary.org/obo/FOODON_03303225
+B001027|LEMON SODA|http://purl.obolibrary.org/obo/FOODON_03302411;http://purl.obolibrary.org/obo/FOODON_03301441
+B001028|ROCK CANDY|http://purl.obolibrary.org/obo/FOODON_03303745;http://purl.obolibrary.org/obo/FOODON_03301051
+B001029|WITCH|http://purl.obolibrary.org/obo/NCBITaxon_34819
+B001030|ORGEAT SYRUP|http://purl.obolibrary.org/obo/FOODON_03303225;http://purl.obolibrary.org/obo/FOODON_03301064
+B001031|CRANBERRY JUICE DRINK|http://purl.obolibrary.org/obo/FOODON_03306182;http://purl.obolibrary.org/obo/FOODON_03301671
+B001032|LIME DRINK MIX|http://purl.obolibrary.org/obo/FOODON_03305086;http://purl.obolibrary.org/obo/FOODON_03302237
+B001033|BEVERAGE MIX|http://purl.obolibrary.org/obo/FOODON_03315247;http://purl.obolibrary.org/obo/FOODON_03301977
+B001034|MALT EXTRACT|http://purl.obolibrary.org/obo/FOODON_03301056;http://purl.obolibrary.org/obo/FOODON_03306040
+B001035|IRISH MOSS|http://purl.obolibrary.org/obo/FOODON_03411742;http://purl.obolibrary.org/obo/hancestro_0383;http://purl.obolibrary.org/obo/NCBITaxon_2769
+B001036|CORN SUGAR|http://purl.obolibrary.org/obo/FOODON_03301475;http://purl.obolibrary.org/obo/NCBITaxon_381124;http://purl.obolibrary.org/obo/FOODON_03420108
+B001037|NYLON|http://purl.obolibrary.org/obo/FOODON_03500027
+B001038|APERITIF WINE|http://purl.obolibrary.org/obo/FOODON_03317565
+B001039|WILD TURKEY|http://purl.obolibrary.org/obo/FOODON_03414166;http://purl.obolibrary.org/obo/NCBITaxon_9103
+B001040|PINK GRAPEFRUIT|http://purl.obolibrary.org/obo/NCBITaxon_37656;http://purl.obolibrary.org/obo/FOODON_03311296
+B001041|FISH OIL|http://purl.obolibrary.org/obo/FOODON_03310387;http://purl.obolibrary.org/obo/FOODON_03306123;http://purl.obolibrary.org/obo/FOODON_03411222
+B001042|VERBENA|http://purl.obolibrary.org/obo/NCBITaxon_22002;http://purl.obolibrary.org/obo/FOODON_03413479
+B001043|BARBADOS|http://purl.obolibrary.org/obo/GAZ_00001251
+B001044|ORANGE-FLAVORED DRINK|http://purl.obolibrary.org/obo/FOODON_03301669;http://purl.obolibrary.org/obo/FOODON_03309832
+B001045|ORANGE YOGURT|http://purl.obolibrary.org/obo/FOODON_03309832;http://purl.obolibrary.org/obo/FOODON_03309602
+B001046|VIETNAMESE|http://purl.obolibrary.org/obo/ancestro_0502;http://purl.obolibrary.org/obo/hancestro_0502
+B001047|COCKTAIL ONION|http://purl.obolibrary.org/obo/FOODON_03316347;http://purl.obolibrary.org/obo/FOODON_03306563
+B001048|PINEAPPLE PULP|http://purl.obolibrary.org/obo/FOODON_03306782;http://purl.obolibrary.org/obo/NCBITaxon_4615
+B001049|SOURSOP|http://purl.obolibrary.org/obo/NCBITaxon_13337
+B001050|SPRING WATER|http://purl.obolibrary.org/obo/ENVO_00000027;http://purl.obolibrary.org/obo/FOODON_03307813;http://purl.obolibrary.org/obo/ENVO_00002006
+B001051|APPLE WINE|http://purl.obolibrary.org/obo/FOODON_03301710;http://purl.obolibrary.org/obo/FOODON_03301134
+B001052|FRUIT-FLAVORED SYRUP|http://purl.obolibrary.org/obo/FOODON_03303225;http://purl.obolibrary.org/obo/FOODON_03311362
+B001053|PAIL|http://purl.obolibrary.org/obo/FOODON_03490219
+B001054|LYCHEE FRUIT|http://purl.obolibrary.org/obo/PO_0009001;http://purl.obolibrary.org/obo/NCBITaxon_151069;http://purl.obolibrary.org/obo/FOODON_03310417
+B001055|GOATS|http://purl.obolibrary.org/obo/NCBITaxon_9925
+B001056|BRAIN|http://purl.obolibrary.org/obo/UBERON_0000955
+B001057|BEEF GRAVY MIX|http://purl.obolibrary.org/obo/FOODON_03303557;http://purl.obolibrary.org/obo/FOODON_03310598
+B001058|FLANK|http://purl.obolibrary.org/obo/FOODON_03530022
+B001059|ORANGE ROUGHY|http://purl.obolibrary.org/obo/FOODON_03309832;http://purl.obolibrary.org/obo/NCBITaxon_96778;http://purl.obolibrary.org/obo/FOODON_03412327;http://purl.obolibrary.org/obo/FOODON_03412328
+B001060|ROUGHY|http://purl.obolibrary.org/obo/FOODON_03412327
+B001061|CHICKEN FAT|http://purl.obolibrary.org/obo/FOODON_03411457;http://purl.obolibrary.org/obo/FOODON_03305091
+B001062|SEA BASS|http://purl.obolibrary.org/obo/FOODON_03412180;http://purl.obolibrary.org/obo/ENVO_00000016
+B001063|IN BRINE|http://purl.obolibrary.org/obo/FOODON_03401212;http://purl.obolibrary.org/obo/FOODON_03302715
+B001064|CHIVE|http://purl.obolibrary.org/obo/NCBITaxon_74900
+B001065|HOT PEPPER PASTE|http://purl.obolibrary.org/obo/FOODON_03306738
+B001066|GROUPER|http://purl.obolibrary.org/obo/FOODON_03411496
+B001067|BEEF DRIPPINGS|http://purl.obolibrary.org/obo/FOODON_03304174
+B001068|SNAPPER|http://purl.obolibrary.org/obo/FOODON_03411510
